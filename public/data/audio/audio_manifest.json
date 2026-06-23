@@ -1,0 +1,4690 @@
+{
+  "totalWords": 780,
+  "description": "音频文件索引",
+  "voices": {
+    "word": "en-US-JennyNeural",
+    "sentence": "en-US-AriaNeural"
+  },
+  "entries": [
+    {
+      "wordId": 1,
+      "english": "hello",
+      "wordAudio": "words/word_hello.mp3",
+      "sentenceAudio": "sentences/sent_c5c8fb4d.mp3"
+    },
+    {
+      "wordId": 2,
+      "english": "hi",
+      "wordAudio": "words/word_hi.mp3",
+      "sentenceAudio": "sentences/sent_604c8759.mp3"
+    },
+    {
+      "wordId": 3,
+      "english": "goodbye",
+      "wordAudio": "words/word_goodbye.mp3",
+      "sentenceAudio": "sentences/sent_c80cce9b.mp3"
+    },
+    {
+      "wordId": 4,
+      "english": "bye",
+      "wordAudio": "words/word_bye.mp3",
+      "sentenceAudio": "sentences/sent_1c8adf76.mp3"
+    },
+    {
+      "wordId": 5,
+      "english": "I",
+      "wordAudio": "words/word_i.mp3",
+      "sentenceAudio": "sentences/sent_2f1f75e8.mp3"
+    },
+    {
+      "wordId": 6,
+      "english": "am",
+      "wordAudio": "words/word_am.mp3",
+      "sentenceAudio": "sentences/sent_654cfd54.mp3"
+    },
+    {
+      "wordId": 7,
+      "english": "Miss",
+      "wordAudio": "words/word_miss.mp3",
+      "sentenceAudio": "sentences/sent_c932ff69.mp3"
+    },
+    {
+      "wordId": 8,
+      "english": "Mr",
+      "wordAudio": "words/word_mr.mp3",
+      "sentenceAudio": "sentences/sent_7a409996.mp3"
+    },
+    {
+      "wordId": 9,
+      "english": "and",
+      "wordAudio": "words/word_and.mp3",
+      "sentenceAudio": "sentences/sent_92b3af0e.mp3"
+    },
+    {
+      "wordId": 10,
+      "english": "too",
+      "wordAudio": "words/word_too.mp3",
+      "sentenceAudio": "sentences/sent_1cf2732c.mp3"
+    },
+    {
+      "wordId": 11,
+      "english": "how",
+      "wordAudio": "words/word_how.mp3",
+      "sentenceAudio": "sentences/sent_04e35eb3.mp3"
+    },
+    {
+      "wordId": 12,
+      "english": "are",
+      "wordAudio": "words/word_are.mp3",
+      "sentenceAudio": "sentences/sent_04e35eb3.mp3"
+    },
+    {
+      "wordId": 13,
+      "english": "you",
+      "wordAudio": "words/word_you.mp3",
+      "sentenceAudio": "sentences/sent_498cd895.mp3"
+    },
+    {
+      "wordId": 14,
+      "english": "fine",
+      "wordAudio": "words/word_fine.mp3",
+      "sentenceAudio": "sentences/sent_c8cfdb3d.mp3"
+    },
+    {
+      "wordId": 15,
+      "english": "thank",
+      "wordAudio": "words/word_thank.mp3",
+      "sentenceAudio": "sentences/sent_9d197f9a.mp3"
+    },
+    {
+      "wordId": 16,
+      "english": "nice",
+      "wordAudio": "words/word_nice.mp3",
+      "sentenceAudio": "sentences/sent_c1351be1.mp3"
+    },
+    {
+      "wordId": 17,
+      "english": "meet",
+      "wordAudio": "words/word_meet.mp3",
+      "sentenceAudio": "sentences/sent_c1351be1.mp3"
+    },
+    {
+      "wordId": 18,
+      "english": "good",
+      "wordAudio": "words/word_good.mp3",
+      "sentenceAudio": "sentences/sent_d56bf970.mp3"
+    },
+    {
+      "wordId": 19,
+      "english": "morning",
+      "wordAudio": "words/word_morning.mp3",
+      "sentenceAudio": "sentences/sent_e7f79f13.mp3"
+    },
+    {
+      "wordId": 20,
+      "english": "afternoon",
+      "wordAudio": "words/word_afternoon.mp3",
+      "sentenceAudio": "sentences/sent_afd7cf03.mp3"
+    },
+    {
+      "wordId": 21,
+      "english": "evening",
+      "wordAudio": "words/word_evening.mp3",
+      "sentenceAudio": "sentences/sent_c0050633.mp3"
+    },
+    {
+      "wordId": 22,
+      "english": "red",
+      "wordAudio": "words/word_red.mp3",
+      "sentenceAudio": "sentences/sent_f6646919.mp3"
+    },
+    {
+      "wordId": 23,
+      "english": "yellow",
+      "wordAudio": "words/word_yellow.mp3",
+      "sentenceAudio": "sentences/sent_2d7895f6.mp3"
+    },
+    {
+      "wordId": 24,
+      "english": "green",
+      "wordAudio": "words/word_green.mp3",
+      "sentenceAudio": "sentences/sent_9b09144c.mp3"
+    },
+    {
+      "wordId": 25,
+      "english": "blue",
+      "wordAudio": "words/word_blue.mp3",
+      "sentenceAudio": "sentences/sent_e5991283.mp3"
+    },
+    {
+      "wordId": 26,
+      "english": "black",
+      "wordAudio": "words/word_black.mp3",
+      "sentenceAudio": "sentences/sent_9797d872.mp3"
+    },
+    {
+      "wordId": 27,
+      "english": "white",
+      "wordAudio": "words/word_white.mp3",
+      "sentenceAudio": "sentences/sent_1f5584e3.mp3"
+    },
+    {
+      "wordId": 28,
+      "english": "orange",
+      "wordAudio": "words/word_orange.mp3",
+      "sentenceAudio": "sentences/sent_ac789ff9.mp3"
+    },
+    {
+      "wordId": 29,
+      "english": "brown",
+      "wordAudio": "words/word_brown.mp3",
+      "sentenceAudio": "sentences/sent_ea4f9371.mp3"
+    },
+    {
+      "wordId": 30,
+      "english": "colour",
+      "wordAudio": "words/word_colour.mp3",
+      "sentenceAudio": "sentences/sent_60eac07f.mp3"
+    },
+    {
+      "wordId": 31,
+      "english": "see",
+      "wordAudio": "words/word_see.mp3",
+      "sentenceAudio": "sentences/sent_d50bbf2c.mp3"
+    },
+    {
+      "wordId": 32,
+      "english": "face",
+      "wordAudio": "words/word_face.mp3",
+      "sentenceAudio": "sentences/sent_7c7a194b.mp3"
+    },
+    {
+      "wordId": 33,
+      "english": "ear",
+      "wordAudio": "words/word_ear.mp3",
+      "sentenceAudio": "sentences/sent_bcc52baa.mp3"
+    },
+    {
+      "wordId": 34,
+      "english": "eye",
+      "wordAudio": "words/word_eye.mp3",
+      "sentenceAudio": "sentences/sent_d4213c51.mp3"
+    },
+    {
+      "wordId": 35,
+      "english": "nose",
+      "wordAudio": "words/word_nose.mp3",
+      "sentenceAudio": "sentences/sent_139e9269.mp3"
+    },
+    {
+      "wordId": 36,
+      "english": "mouth",
+      "wordAudio": "words/word_mouth.mp3",
+      "sentenceAudio": "sentences/sent_00143831.mp3"
+    },
+    {
+      "wordId": 37,
+      "english": "arm",
+      "wordAudio": "words/word_arm.mp3",
+      "sentenceAudio": "sentences/sent_c9737379.mp3"
+    },
+    {
+      "wordId": 38,
+      "english": "hand",
+      "wordAudio": "words/word_hand.mp3",
+      "sentenceAudio": "sentences/sent_cd198fbc.mp3"
+    },
+    {
+      "wordId": 39,
+      "english": "head",
+      "wordAudio": "words/word_head.mp3",
+      "sentenceAudio": "sentences/sent_6bc4accb.mp3"
+    },
+    {
+      "wordId": 40,
+      "english": "body",
+      "wordAudio": "words/word_body.mp3",
+      "sentenceAudio": "sentences/sent_ad42de40.mp3"
+    },
+    {
+      "wordId": 41,
+      "english": "leg",
+      "wordAudio": "words/word_leg.mp3",
+      "sentenceAudio": "sentences/sent_4d503283.mp3"
+    },
+    {
+      "wordId": 42,
+      "english": "foot",
+      "wordAudio": "words/word_foot.mp3",
+      "sentenceAudio": "sentences/sent_bc947b4e.mp3"
+    },
+    {
+      "wordId": 43,
+      "english": "look",
+      "wordAudio": "words/word_look.mp3",
+      "sentenceAudio": "sentences/sent_e517167a.mp3"
+    },
+    {
+      "wordId": 44,
+      "english": "at",
+      "wordAudio": "words/word_at.mp3",
+      "sentenceAudio": "sentences/sent_a89fcf07.mp3"
+    },
+    {
+      "wordId": 45,
+      "english": "this",
+      "wordAudio": "words/word_this.mp3",
+      "sentenceAudio": "sentences/sent_832c794e.mp3"
+    },
+    {
+      "wordId": 46,
+      "english": "my",
+      "wordAudio": "words/word_my.mp3",
+      "sentenceAudio": "sentences/sent_35358959.mp3"
+    },
+    {
+      "wordId": 47,
+      "english": "me",
+      "wordAudio": "words/word_me.mp3",
+      "sentenceAudio": "sentences/sent_4eeef77f.mp3"
+    },
+    {
+      "wordId": 48,
+      "english": "your",
+      "wordAudio": "words/word_your.mp3",
+      "sentenceAudio": "sentences/sent_139e9269.mp3"
+    },
+    {
+      "wordId": 49,
+      "english": "the",
+      "wordAudio": "words/word_the.mp3",
+      "sentenceAudio": "sentences/sent_9d77a9b5.mp3"
+    },
+    {
+      "wordId": 50,
+      "english": "cat",
+      "wordAudio": "words/word_cat.mp3",
+      "sentenceAudio": "sentences/sent_0981b3e5.mp3"
+    },
+    {
+      "wordId": 51,
+      "english": "dog",
+      "wordAudio": "words/word_dog.mp3",
+      "sentenceAudio": "sentences/sent_d99886f8.mp3"
+    },
+    {
+      "wordId": 52,
+      "english": "duck",
+      "wordAudio": "words/word_duck.mp3",
+      "sentenceAudio": "sentences/sent_da657682.mp3"
+    },
+    {
+      "wordId": 53,
+      "english": "pig",
+      "wordAudio": "words/word_pig.mp3",
+      "sentenceAudio": "sentences/sent_edb2ec7d.mp3"
+    },
+    {
+      "wordId": 54,
+      "english": "bear",
+      "wordAudio": "words/word_bear.mp3",
+      "sentenceAudio": "sentences/sent_c4678912.mp3"
+    },
+    {
+      "wordId": 55,
+      "english": "bird",
+      "wordAudio": "words/word_bird.mp3",
+      "sentenceAudio": "sentences/sent_22f1e2df.mp3"
+    },
+    {
+      "wordId": 56,
+      "english": "panda",
+      "wordAudio": "words/word_panda.mp3",
+      "sentenceAudio": "sentences/sent_df166677.mp3"
+    },
+    {
+      "wordId": 57,
+      "english": "tiger",
+      "wordAudio": "words/word_tiger.mp3",
+      "sentenceAudio": "sentences/sent_70a1c756.mp3"
+    },
+    {
+      "wordId": 58,
+      "english": "elephant",
+      "wordAudio": "words/word_elephant.mp3",
+      "sentenceAudio": "sentences/sent_e5fb254f.mp3"
+    },
+    {
+      "wordId": 59,
+      "english": "monkey",
+      "wordAudio": "words/word_monkey.mp3",
+      "sentenceAudio": "sentences/sent_2b63a2e7.mp3"
+    },
+    {
+      "wordId": 60,
+      "english": "zoo",
+      "wordAudio": "words/word_zoo.mp3",
+      "sentenceAudio": "sentences/sent_8c53a75f.mp3"
+    },
+    {
+      "wordId": 61,
+      "english": "animal",
+      "wordAudio": "words/word_animal.mp3",
+      "sentenceAudio": "sentences/sent_546f1650.mp3"
+    },
+    {
+      "wordId": 62,
+      "english": "what",
+      "wordAudio": "words/word_what.mp3",
+      "sentenceAudio": "sentences/sent_efc45797.mp3"
+    },
+    {
+      "wordId": 63,
+      "english": "a",
+      "wordAudio": "words/word_a.mp3",
+      "sentenceAudio": "sentences/sent_ab5c9f36.mp3"
+    },
+    {
+      "wordId": 64,
+      "english": "an",
+      "wordAudio": "words/word_an.mp3",
+      "sentenceAudio": "sentences/sent_7f391274.mp3"
+    },
+    {
+      "wordId": 65,
+      "english": "is",
+      "wordAudio": "words/word_is.mp3",
+      "sentenceAudio": "sentences/sent_1e27bed5.mp3"
+    },
+    {
+      "wordId": 66,
+      "english": "it",
+      "wordAudio": "words/word_it.mp3",
+      "sentenceAudio": "sentences/sent_3155b946.mp3"
+    },
+    {
+      "wordId": 67,
+      "english": "cute",
+      "wordAudio": "words/word_cute.mp3",
+      "sentenceAudio": "sentences/sent_762e50a7.mp3"
+    },
+    {
+      "wordId": 68,
+      "english": "funny",
+      "wordAudio": "words/word_funny.mp3",
+      "sentenceAudio": "sentences/sent_df45853b.mp3"
+    },
+    {
+      "wordId": 69,
+      "english": "cool",
+      "wordAudio": "words/word_cool.mp3",
+      "sentenceAudio": "sentences/sent_fdd2d24c.mp3"
+    },
+    {
+      "wordId": 70,
+      "english": "bread",
+      "wordAudio": "words/word_bread.mp3",
+      "sentenceAudio": "sentences/sent_421758b4.mp3"
+    },
+    {
+      "wordId": 71,
+      "english": "juice",
+      "wordAudio": "words/word_juice.mp3",
+      "sentenceAudio": "sentences/sent_a3845431.mp3"
+    },
+    {
+      "wordId": 72,
+      "english": "egg",
+      "wordAudio": "words/word_egg.mp3",
+      "sentenceAudio": "sentences/sent_1dffbfe5.mp3"
+    },
+    {
+      "wordId": 73,
+      "english": "milk",
+      "wordAudio": "words/word_milk.mp3",
+      "sentenceAudio": "sentences/sent_d5ec810c.mp3"
+    },
+    {
+      "wordId": 74,
+      "english": "water",
+      "wordAudio": "words/word_water.mp3",
+      "sentenceAudio": "sentences/sent_9386b31e.mp3"
+    },
+    {
+      "wordId": 75,
+      "english": "cake",
+      "wordAudio": "words/word_cake.mp3",
+      "sentenceAudio": "sentences/sent_efde4b39.mp3"
+    },
+    {
+      "wordId": 76,
+      "english": "fish",
+      "wordAudio": "words/word_fish.mp3",
+      "sentenceAudio": "sentences/sent_a44b3765.mp3"
+    },
+    {
+      "wordId": 77,
+      "english": "rice",
+      "wordAudio": "words/word_rice.mp3",
+      "sentenceAudio": "sentences/sent_e5dd9c73.mp3"
+    },
+    {
+      "wordId": 78,
+      "english": "eat",
+      "wordAudio": "words/word_eat.mp3",
+      "sentenceAudio": "sentences/sent_1a088fe6.mp3"
+    },
+    {
+      "wordId": 79,
+      "english": "drink",
+      "wordAudio": "words/word_drink.mp3",
+      "sentenceAudio": "sentences/sent_6ab3a62c.mp3"
+    },
+    {
+      "wordId": 80,
+      "english": "have",
+      "wordAudio": "words/word_have.mp3",
+      "sentenceAudio": "sentences/sent_90ed30f4.mp3"
+    },
+    {
+      "wordId": 81,
+      "english": "some",
+      "wordAudio": "words/word_some.mp3",
+      "sentenceAudio": "sentences/sent_8acb1313.mp3"
+    },
+    {
+      "wordId": 82,
+      "english": "like",
+      "wordAudio": "words/word_like.mp3",
+      "sentenceAudio": "sentences/sent_7607267f.mp3"
+    },
+    {
+      "wordId": 83,
+      "english": "here",
+      "wordAudio": "words/word_here.mp3",
+      "sentenceAudio": "sentences/sent_57403500.mp3"
+    },
+    {
+      "wordId": 84,
+      "english": "please",
+      "wordAudio": "words/word_please.mp3",
+      "sentenceAudio": "sentences/sent_8e916c89.mp3"
+    },
+    {
+      "wordId": 85,
+      "english": "thanks",
+      "wordAudio": "words/word_thanks.mp3",
+      "sentenceAudio": "sentences/sent_38f5c247.mp3"
+    },
+    {
+      "wordId": 86,
+      "english": "can",
+      "wordAudio": "words/word_can.mp3",
+      "sentenceAudio": "sentences/sent_aa91b263.mp3"
+    },
+    {
+      "wordId": 87,
+      "english": "one",
+      "wordAudio": "words/word_one.mp3",
+      "sentenceAudio": "sentences/sent_9de837de.mp3"
+    },
+    {
+      "wordId": 88,
+      "english": "two",
+      "wordAudio": "words/word_two.mp3",
+      "sentenceAudio": "sentences/sent_39f73bee.mp3"
+    },
+    {
+      "wordId": 89,
+      "english": "three",
+      "wordAudio": "words/word_three.mp3",
+      "sentenceAudio": "sentences/sent_db59d27a.mp3"
+    },
+    {
+      "wordId": 90,
+      "english": "four",
+      "wordAudio": "words/word_four.mp3",
+      "sentenceAudio": "sentences/sent_99cf07f5.mp3"
+    },
+    {
+      "wordId": 91,
+      "english": "five",
+      "wordAudio": "words/word_five.mp3",
+      "sentenceAudio": "sentences/sent_3abb8740.mp3"
+    },
+    {
+      "wordId": 92,
+      "english": "six",
+      "wordAudio": "words/word_six.mp3",
+      "sentenceAudio": "sentences/sent_f9ab34bd.mp3"
+    },
+    {
+      "wordId": 93,
+      "english": "seven",
+      "wordAudio": "words/word_seven.mp3",
+      "sentenceAudio": "sentences/sent_4193126d.mp3"
+    },
+    {
+      "wordId": 94,
+      "english": "eight",
+      "wordAudio": "words/word_eight.mp3",
+      "sentenceAudio": "sentences/sent_f84e0679.mp3"
+    },
+    {
+      "wordId": 95,
+      "english": "nine",
+      "wordAudio": "words/word_nine.mp3",
+      "sentenceAudio": "sentences/sent_b3f70e97.mp3"
+    },
+    {
+      "wordId": 96,
+      "english": "ten",
+      "wordAudio": "words/word_ten.mp3",
+      "sentenceAudio": "sentences/sent_b8127eea.mp3"
+    },
+    {
+      "wordId": 97,
+      "english": "happy",
+      "wordAudio": "words/word_happy.mp3",
+      "sentenceAudio": "sentences/sent_ae1e2f44.mp3"
+    },
+    {
+      "wordId": 98,
+      "english": "birthday",
+      "wordAudio": "words/word_birthday.mp3",
+      "sentenceAudio": "sentences/sent_c84f8f55.mp3"
+    },
+    {
+      "wordId": 99,
+      "english": "gift",
+      "wordAudio": "words/word_gift.mp3",
+      "sentenceAudio": "sentences/sent_6396bd84.mp3"
+    },
+    {
+      "wordId": 100,
+      "english": "old",
+      "wordAudio": "words/word_old.mp3",
+      "sentenceAudio": "sentences/sent_13e575be.mp3"
+    },
+    {
+      "wordId": 101,
+      "english": "year",
+      "wordAudio": "words/word_year.mp3",
+      "sentenceAudio": "sentences/sent_917d5ff6.mp3"
+    },
+    {
+      "wordId": 102,
+      "english": "old",
+      "wordAudio": "words/word_old.mp3",
+      "sentenceAudio": "sentences/sent_673ec5c0.mp3"
+    },
+    {
+      "wordId": 103,
+      "english": "how",
+      "wordAudio": "words/word_how.mp3",
+      "sentenceAudio": "sentences/sent_691e9bd9.mp3"
+    },
+    {
+      "wordId": 104,
+      "english": "many",
+      "wordAudio": "words/word_many.mp3",
+      "sentenceAudio": "sentences/sent_ae4c8bdd.mp3"
+    },
+    {
+      "wordId": 105,
+      "english": "plate",
+      "wordAudio": "words/word_plate.mp3",
+      "sentenceAudio": "sentences/sent_fc85f33d.mp3"
+    },
+    {
+      "wordId": 106,
+      "english": "candle",
+      "wordAudio": "words/word_candle.mp3",
+      "sentenceAudio": "sentences/sent_3a693ed8.mp3"
+    },
+    {
+      "wordId": 107,
+      "english": "boy",
+      "wordAudio": "words/word_boy.mp3",
+      "sentenceAudio": "sentences/sent_4f7e0887.mp3"
+    },
+    {
+      "wordId": 108,
+      "english": "girl",
+      "wordAudio": "words/word_girl.mp3",
+      "sentenceAudio": "sentences/sent_d30f4722.mp3"
+    },
+    {
+      "wordId": 109,
+      "english": "teacher",
+      "wordAudio": "words/word_teacher.mp3",
+      "sentenceAudio": "sentences/sent_91c1b783.mp3"
+    },
+    {
+      "wordId": 110,
+      "english": "student",
+      "wordAudio": "words/word_student.mp3",
+      "sentenceAudio": "sentences/sent_2f1f75e8.mp3"
+    },
+    {
+      "wordId": 111,
+      "english": "pupil",
+      "wordAudio": "words/word_pupil.mp3",
+      "sentenceAudio": "sentences/sent_7531f22e.mp3"
+    },
+    {
+      "wordId": 112,
+      "english": "China",
+      "wordAudio": "words/word_china.mp3",
+      "sentenceAudio": "sentences/sent_506c6d64.mp3"
+    },
+    {
+      "wordId": 113,
+      "english": "UK",
+      "wordAudio": "words/word_uk.mp3",
+      "sentenceAudio": "sentences/sent_467c5d38.mp3"
+    },
+    {
+      "wordId": 114,
+      "english": "USA",
+      "wordAudio": "words/word_usa.mp3",
+      "sentenceAudio": "sentences/sent_b978043e.mp3"
+    },
+    {
+      "wordId": 115,
+      "english": "Canada",
+      "wordAudio": "words/word_canada.mp3",
+      "sentenceAudio": "sentences/sent_660cbef1.mp3"
+    },
+    {
+      "wordId": 116,
+      "english": "from",
+      "wordAudio": "words/word_from.mp3",
+      "sentenceAudio": "sentences/sent_fe994994.mp3"
+    },
+    {
+      "wordId": 117,
+      "english": "new",
+      "wordAudio": "words/word_new.mp3",
+      "sentenceAudio": "sentences/sent_6059e76b.mp3"
+    },
+    {
+      "wordId": 118,
+      "english": "friend",
+      "wordAudio": "words/word_friend.mp3",
+      "sentenceAudio": "sentences/sent_6813f8f3.mp3"
+    },
+    {
+      "wordId": 119,
+      "english": "welcome",
+      "wordAudio": "words/word_welcome.mp3",
+      "sentenceAudio": "sentences/sent_1cc991d9.mp3"
+    },
+    {
+      "wordId": 120,
+      "english": "back",
+      "wordAudio": "words/word_back.mp3",
+      "sentenceAudio": "sentences/sent_9beea117.mp3"
+    },
+    {
+      "wordId": 121,
+      "english": "school",
+      "wordAudio": "words/word_school.mp3",
+      "sentenceAudio": "sentences/sent_e8204cda.mp3"
+    },
+    {
+      "wordId": 122,
+      "english": "where",
+      "wordAudio": "words/word_where.mp3",
+      "sentenceAudio": "sentences/sent_fe994994.mp3"
+    },
+    {
+      "wordId": 123,
+      "english": "he",
+      "wordAudio": "words/word_he.mp3",
+      "sentenceAudio": "sentences/sent_f6673f90.mp3"
+    },
+    {
+      "wordId": 124,
+      "english": "she",
+      "wordAudio": "words/word_she.mp3",
+      "sentenceAudio": "sentences/sent_070882c1.mp3"
+    },
+    {
+      "wordId": 125,
+      "english": "father",
+      "wordAudio": "words/word_father.mp3",
+      "sentenceAudio": "sentences/sent_5cf336da.mp3"
+    },
+    {
+      "wordId": 126,
+      "english": "dad",
+      "wordAudio": "words/word_dad.mp3",
+      "sentenceAudio": "sentences/sent_ee4ece79.mp3"
+    },
+    {
+      "wordId": 127,
+      "english": "mother",
+      "wordAudio": "words/word_mother.mp3",
+      "sentenceAudio": "sentences/sent_0841d46c.mp3"
+    },
+    {
+      "wordId": 128,
+      "english": "mum",
+      "wordAudio": "words/word_mum.mp3",
+      "sentenceAudio": "sentences/sent_f30432db.mp3"
+    },
+    {
+      "wordId": 129,
+      "english": "man",
+      "wordAudio": "words/word_man.mp3",
+      "sentenceAudio": "sentences/sent_d80f9fc5.mp3"
+    },
+    {
+      "wordId": 130,
+      "english": "woman",
+      "wordAudio": "words/word_woman.mp3",
+      "sentenceAudio": "sentences/sent_ea486c2e.mp3"
+    },
+    {
+      "wordId": 131,
+      "english": "sister",
+      "wordAudio": "words/word_sister.mp3",
+      "sentenceAudio": "sentences/sent_2d1bcb0e.mp3"
+    },
+    {
+      "wordId": 132,
+      "english": "brother",
+      "wordAudio": "words/word_brother.mp3",
+      "sentenceAudio": "sentences/sent_f6673f90.mp3"
+    },
+    {
+      "wordId": 133,
+      "english": "grandmother",
+      "wordAudio": "words/word_grandmother.mp3",
+      "sentenceAudio": "sentences/sent_1268001b.mp3"
+    },
+    {
+      "wordId": 134,
+      "english": "grandfather",
+      "wordAudio": "words/word_grandfather.mp3",
+      "sentenceAudio": "sentences/sent_e2bdfd49.mp3"
+    },
+    {
+      "wordId": 135,
+      "english": "family",
+      "wordAudio": "words/word_family.mp3",
+      "sentenceAudio": "sentences/sent_02c50617.mp3"
+    },
+    {
+      "wordId": 136,
+      "english": "who",
+      "wordAudio": "words/word_who.mp3",
+      "sentenceAudio": "sentences/sent_6e043002.mp3"
+    },
+    {
+      "wordId": 137,
+      "english": "that",
+      "wordAudio": "words/word_that.mp3",
+      "sentenceAudio": "sentences/sent_8df233e2.mp3"
+    },
+    {
+      "wordId": 138,
+      "english": "thin",
+      "wordAudio": "words/word_thin.mp3",
+      "sentenceAudio": "sentences/sent_1bed58a8.mp3"
+    },
+    {
+      "wordId": 139,
+      "english": "fat",
+      "wordAudio": "words/word_fat.mp3",
+      "sentenceAudio": "sentences/sent_edb2ec7d.mp3"
+    },
+    {
+      "wordId": 140,
+      "english": "tall",
+      "wordAudio": "words/word_tall.mp3",
+      "sentenceAudio": "sentences/sent_df97372c.mp3"
+    },
+    {
+      "wordId": 141,
+      "english": "short",
+      "wordAudio": "words/word_short.mp3",
+      "sentenceAudio": "sentences/sent_7445c17c.mp3"
+    },
+    {
+      "wordId": 142,
+      "english": "long",
+      "wordAudio": "words/word_long.mp3",
+      "sentenceAudio": "sentences/sent_2760f412.mp3"
+    },
+    {
+      "wordId": 143,
+      "english": "small",
+      "wordAudio": "words/word_small.mp3",
+      "sentenceAudio": "sentences/sent_9f9c1098.mp3"
+    },
+    {
+      "wordId": 144,
+      "english": "big",
+      "wordAudio": "words/word_big.mp3",
+      "sentenceAudio": "sentences/sent_e5fb254f.mp3"
+    },
+    {
+      "wordId": 145,
+      "english": "giraffe",
+      "wordAudio": "words/word_giraffe.mp3",
+      "sentenceAudio": "sentences/sent_dc06a023.mp3"
+    },
+    {
+      "wordId": 146,
+      "english": "children",
+      "wordAudio": "words/word_children.mp3",
+      "sentenceAudio": "sentences/sent_f64a8c1b.mp3"
+    },
+    {
+      "wordId": 147,
+      "english": "tail",
+      "wordAudio": "words/word_tail.mp3",
+      "sentenceAudio": "sentences/sent_061fd31c.mp3"
+    },
+    {
+      "wordId": 148,
+      "english": "so",
+      "wordAudio": "words/word_so.mp3",
+      "sentenceAudio": "sentences/sent_485bb0a1.mp3"
+    },
+    {
+      "wordId": 149,
+      "english": "on",
+      "wordAudio": "words/word_on.mp3",
+      "sentenceAudio": "sentences/sent_7070ffb0.mp3"
+    },
+    {
+      "wordId": 150,
+      "english": "in",
+      "wordAudio": "words/word_in.mp3",
+      "sentenceAudio": "sentences/sent_35c8276a.mp3"
+    },
+    {
+      "wordId": 151,
+      "english": "under",
+      "wordAudio": "words/word_under.mp3",
+      "sentenceAudio": "sentences/sent_033adeb7.mp3"
+    },
+    {
+      "wordId": 152,
+      "english": "desk",
+      "wordAudio": "words/word_desk.mp3",
+      "sentenceAudio": "sentences/sent_7070ffb0.mp3"
+    },
+    {
+      "wordId": 153,
+      "english": "chair",
+      "wordAudio": "words/word_chair.mp3",
+      "sentenceAudio": "sentences/sent_fbde70ab.mp3"
+    },
+    {
+      "wordId": 154,
+      "english": "cap",
+      "wordAudio": "words/word_cap.mp3",
+      "sentenceAudio": "sentences/sent_79044c4f.mp3"
+    },
+    {
+      "wordId": 155,
+      "english": "ball",
+      "wordAudio": "words/word_ball.mp3",
+      "sentenceAudio": "sentences/sent_2f11b5dc.mp3"
+    },
+    {
+      "wordId": 156,
+      "english": "car",
+      "wordAudio": "words/word_car.mp3",
+      "sentenceAudio": "sentences/sent_a48b2d01.mp3"
+    },
+    {
+      "wordId": 157,
+      "english": "boat",
+      "wordAudio": "words/word_boat.mp3",
+      "sentenceAudio": "sentences/sent_1fc5f71f.mp3"
+    },
+    {
+      "wordId": 158,
+      "english": "map",
+      "wordAudio": "words/word_map.mp3",
+      "sentenceAudio": "sentences/sent_63ec5b82.mp3"
+    },
+    {
+      "wordId": 159,
+      "english": "toy",
+      "wordAudio": "words/word_toy.mp3",
+      "sentenceAudio": "sentences/sent_530ecb44.mp3"
+    },
+    {
+      "wordId": 160,
+      "english": "box",
+      "wordAudio": "words/word_box.mp3",
+      "sentenceAudio": "sentences/sent_45a6ad97.mp3"
+    },
+    {
+      "wordId": 161,
+      "english": "where",
+      "wordAudio": "words/word_where.mp3",
+      "sentenceAudio": "sentences/sent_03b6750b.mp3"
+    },
+    {
+      "wordId": 162,
+      "english": "apple",
+      "wordAudio": "words/word_apple.mp3",
+      "sentenceAudio": "sentences/sent_1db529d1.mp3"
+    },
+    {
+      "wordId": 163,
+      "english": "pear",
+      "wordAudio": "words/word_pear.mp3",
+      "sentenceAudio": "sentences/sent_5c8e0f39.mp3"
+    },
+    {
+      "wordId": 164,
+      "english": "orange",
+      "wordAudio": "words/word_orange.mp3",
+      "sentenceAudio": "sentences/sent_fac76213.mp3"
+    },
+    {
+      "wordId": 165,
+      "english": "banana",
+      "wordAudio": "words/word_banana.mp3",
+      "sentenceAudio": "sentences/sent_2b63a2e7.mp3"
+    },
+    {
+      "wordId": 166,
+      "english": "watermelon",
+      "wordAudio": "words/word_watermelon.mp3",
+      "sentenceAudio": "sentences/sent_7543fd23.mp3"
+    },
+    {
+      "wordId": 167,
+      "english": "strawberry",
+      "wordAudio": "words/word_strawberry.mp3",
+      "sentenceAudio": "sentences/sent_c5ef9395.mp3"
+    },
+    {
+      "wordId": 168,
+      "english": "grape",
+      "wordAudio": "words/word_grape.mp3",
+      "sentenceAudio": "sentences/sent_9d5d3773.mp3"
+    },
+    {
+      "wordId": 169,
+      "english": "buy",
+      "wordAudio": "words/word_buy.mp3",
+      "sentenceAudio": "sentences/sent_c19a5e3c.mp3"
+    },
+    {
+      "wordId": 170,
+      "english": "fruit",
+      "wordAudio": "words/word_fruit.mp3",
+      "sentenceAudio": "sentences/sent_c8b4ed08.mp3"
+    },
+    {
+      "wordId": 171,
+      "english": "yes",
+      "wordAudio": "words/word_yes.mp3",
+      "sentenceAudio": "sentences/sent_0c83594a.mp3"
+    },
+    {
+      "wordId": 172,
+      "english": "no",
+      "wordAudio": "words/word_no.mp3",
+      "sentenceAudio": "sentences/sent_514cef70.mp3"
+    },
+    {
+      "wordId": 173,
+      "english": "do",
+      "wordAudio": "words/word_do.mp3",
+      "sentenceAudio": "sentences/sent_5eb32b21.mp3"
+    },
+    {
+      "wordId": 174,
+      "english": "don't",
+      "wordAudio": "words/word_dont.mp3",
+      "sentenceAudio": "sentences/sent_c0a98ceb.mp3"
+    },
+    {
+      "wordId": 175,
+      "english": "sorry",
+      "wordAudio": "words/word_sorry.mp3",
+      "sentenceAudio": "sentences/sent_4fcfda1b.mp3"
+    },
+    {
+      "wordId": 176,
+      "english": "eleven",
+      "wordAudio": "words/word_eleven.mp3",
+      "sentenceAudio": "sentences/sent_c6bab97f.mp3"
+    },
+    {
+      "wordId": 177,
+      "english": "twelve",
+      "wordAudio": "words/word_twelve.mp3",
+      "sentenceAudio": "sentences/sent_70caffdd.mp3"
+    },
+    {
+      "wordId": 178,
+      "english": "thirteen",
+      "wordAudio": "words/word_thirteen.mp3",
+      "sentenceAudio": "sentences/sent_a92a77f1.mp3"
+    },
+    {
+      "wordId": 179,
+      "english": "fourteen",
+      "wordAudio": "words/word_fourteen.mp3",
+      "sentenceAudio": "sentences/sent_be7514f1.mp3"
+    },
+    {
+      "wordId": 180,
+      "english": "fifteen",
+      "wordAudio": "words/word_fifteen.mp3",
+      "sentenceAudio": "sentences/sent_d564fc29.mp3"
+    },
+    {
+      "wordId": 181,
+      "english": "sixteen",
+      "wordAudio": "words/word_sixteen.mp3",
+      "sentenceAudio": "sentences/sent_440feefa.mp3"
+    },
+    {
+      "wordId": 182,
+      "english": "seventeen",
+      "wordAudio": "words/word_seventeen.mp3",
+      "sentenceAudio": "sentences/sent_d6c38b1c.mp3"
+    },
+    {
+      "wordId": 183,
+      "english": "eighteen",
+      "wordAudio": "words/word_eighteen.mp3",
+      "sentenceAudio": "sentences/sent_3a06709c.mp3"
+    },
+    {
+      "wordId": 184,
+      "english": "nineteen",
+      "wordAudio": "words/word_nineteen.mp3",
+      "sentenceAudio": "sentences/sent_73e4c5d8.mp3"
+    },
+    {
+      "wordId": 185,
+      "english": "twenty",
+      "wordAudio": "words/word_twenty.mp3",
+      "sentenceAudio": "sentences/sent_001dd942.mp3"
+    },
+    {
+      "wordId": 186,
+      "english": "kite",
+      "wordAudio": "words/word_kite.mp3",
+      "sentenceAudio": "sentences/sent_40c33073.mp3"
+    },
+    {
+      "wordId": 187,
+      "english": "beautiful",
+      "wordAudio": "words/word_beautiful.mp3",
+      "sentenceAudio": "sentences/sent_cd7958b6.mp3"
+    },
+    {
+      "wordId": 188,
+      "english": "open",
+      "wordAudio": "words/word_open.mp3",
+      "sentenceAudio": "sentences/sent_55f06627.mp3"
+    },
+    {
+      "wordId": 189,
+      "english": "close",
+      "wordAudio": "words/word_close.mp3",
+      "sentenceAudio": "sentences/sent_dca88fc8.mp3"
+    },
+    {
+      "wordId": 190,
+      "english": "crayon",
+      "wordAudio": "words/word_crayon.mp3",
+      "sentenceAudio": "sentences/sent_1c274340.mp3"
+    },
+    {
+      "wordId": 191,
+      "english": "classroom",
+      "wordAudio": "words/word_classroom.mp3",
+      "sentenceAudio": "sentences/sent_d6abbdd7.mp3"
+    },
+    {
+      "wordId": 192,
+      "english": "window",
+      "wordAudio": "words/word_window.mp3",
+      "sentenceAudio": "sentences/sent_6debef00.mp3"
+    },
+    {
+      "wordId": 193,
+      "english": "blackboard",
+      "wordAudio": "words/word_blackboard.mp3",
+      "sentenceAudio": "sentences/sent_b4b1678d.mp3"
+    },
+    {
+      "wordId": 194,
+      "english": "light",
+      "wordAudio": "words/word_light.mp3",
+      "sentenceAudio": "sentences/sent_5d66136e.mp3"
+    },
+    {
+      "wordId": 195,
+      "english": "picture",
+      "wordAudio": "words/word_picture.mp3",
+      "sentenceAudio": "sentences/sent_d456cfa3.mp3"
+    },
+    {
+      "wordId": 196,
+      "english": "door",
+      "wordAudio": "words/word_door.mp3",
+      "sentenceAudio": "sentences/sent_274e9c16.mp3"
+    },
+    {
+      "wordId": 197,
+      "english": "floor",
+      "wordAudio": "words/word_floor.mp3",
+      "sentenceAudio": "sentences/sent_8138f86d.mp3"
+    },
+    {
+      "wordId": 198,
+      "english": "wall",
+      "wordAudio": "words/word_wall.mp3",
+      "sentenceAudio": "sentences/sent_2aa42436.mp3"
+    },
+    {
+      "wordId": 199,
+      "english": "computer",
+      "wordAudio": "words/word_computer.mp3",
+      "sentenceAudio": "sentences/sent_5a244642.mp3"
+    },
+    {
+      "wordId": 200,
+      "english": "fan",
+      "wordAudio": "words/word_fan.mp3",
+      "sentenceAudio": "sentences/sent_c5d8db7d.mp3"
+    },
+    {
+      "wordId": 201,
+      "english": "near",
+      "wordAudio": "words/word_near.mp3",
+      "sentenceAudio": "sentences/sent_5a5b1cb9.mp3"
+    },
+    {
+      "wordId": 202,
+      "english": "clean",
+      "wordAudio": "words/word_clean.mp3",
+      "sentenceAudio": "sentences/sent_0d3b6966.mp3"
+    },
+    {
+      "wordId": 203,
+      "english": "help",
+      "wordAudio": "words/word_help.mp3",
+      "sentenceAudio": "sentences/sent_04299e14.mp3"
+    },
+    {
+      "wordId": 204,
+      "english": "really",
+      "wordAudio": "words/word_really.mp3",
+      "sentenceAudio": "sentences/sent_77633192.mp3"
+    },
+    {
+      "wordId": 205,
+      "english": "schoolbag",
+      "wordAudio": "words/word_schoolbag.mp3",
+      "sentenceAudio": "sentences/sent_67725ec9.mp3"
+    },
+    {
+      "wordId": 206,
+      "english": "book",
+      "wordAudio": "words/word_book.mp3",
+      "sentenceAudio": "sentences/sent_759ac74e.mp3"
+    },
+    {
+      "wordId": 207,
+      "english": "English book",
+      "wordAudio": "words/word_english_book.mp3",
+      "sentenceAudio": "sentences/sent_09c0ffee.mp3"
+    },
+    {
+      "wordId": 208,
+      "english": "Chinese book",
+      "wordAudio": "words/word_chinese_book.mp3",
+      "sentenceAudio": "sentences/sent_aa880efc.mp3"
+    },
+    {
+      "wordId": 209,
+      "english": "maths book",
+      "wordAudio": "words/word_maths_book.mp3",
+      "sentenceAudio": "sentences/sent_d1131fc7.mp3"
+    },
+    {
+      "wordId": 210,
+      "english": "storybook",
+      "wordAudio": "words/word_storybook.mp3",
+      "sentenceAudio": "sentences/sent_cfc131f9.mp3"
+    },
+    {
+      "wordId": 211,
+      "english": "notebook",
+      "wordAudio": "words/word_notebook.mp3",
+      "sentenceAudio": "sentences/sent_1fa09e52.mp3"
+    },
+    {
+      "wordId": 212,
+      "english": "pencil",
+      "wordAudio": "words/word_pencil.mp3",
+      "sentenceAudio": "sentences/sent_49ca1449.mp3"
+    },
+    {
+      "wordId": 213,
+      "english": "pencil box",
+      "wordAudio": "words/word_pencil_box.mp3",
+      "sentenceAudio": "sentences/sent_fbe8259b.mp3"
+    },
+    {
+      "wordId": 214,
+      "english": "ruler",
+      "wordAudio": "words/word_ruler.mp3",
+      "sentenceAudio": "sentences/sent_f07c91bd.mp3"
+    },
+    {
+      "wordId": 215,
+      "english": "eraser",
+      "wordAudio": "words/word_eraser.mp3",
+      "sentenceAudio": "sentences/sent_7ea5b74f.mp3"
+    },
+    {
+      "wordId": 216,
+      "english": "candy",
+      "wordAudio": "words/word_candy.mp3",
+      "sentenceAudio": "sentences/sent_6fa9223b.mp3"
+    },
+    {
+      "wordId": 217,
+      "english": "heavy",
+      "wordAudio": "words/word_heavy.mp3",
+      "sentenceAudio": "sentences/sent_67725ec9.mp3"
+    },
+    {
+      "wordId": 218,
+      "english": "wow",
+      "wordAudio": "words/word_wow.mp3",
+      "sentenceAudio": "sentences/sent_61e15c06.mp3"
+    },
+    {
+      "wordId": 219,
+      "english": "strong",
+      "wordAudio": "words/word_strong.mp3",
+      "sentenceAudio": "sentences/sent_ef5a490f.mp3"
+    },
+    {
+      "wordId": 220,
+      "english": "friendly",
+      "wordAudio": "words/word_friendly.mp3",
+      "sentenceAudio": "sentences/sent_bf00ee7f.mp3"
+    },
+    {
+      "wordId": 221,
+      "english": "quiet",
+      "wordAudio": "words/word_quiet.mp3",
+      "sentenceAudio": "sentences/sent_15ac404d.mp3"
+    },
+    {
+      "wordId": 222,
+      "english": "hair",
+      "wordAudio": "words/word_hair.mp3",
+      "sentenceAudio": "sentences/sent_6facbdad.mp3"
+    },
+    {
+      "wordId": 223,
+      "english": "shoe",
+      "wordAudio": "words/word_shoe.mp3",
+      "sentenceAudio": "sentences/sent_d0f32f18.mp3"
+    },
+    {
+      "wordId": 224,
+      "english": "glasses",
+      "wordAudio": "words/word_glasses.mp3",
+      "sentenceAudio": "sentences/sent_561fd008.mp3"
+    },
+    {
+      "wordId": 225,
+      "english": "his",
+      "wordAudio": "words/word_his.mp3",
+      "sentenceAudio": "sentences/sent_5fbf87b5.mp3"
+    },
+    {
+      "wordId": 226,
+      "english": "her",
+      "wordAudio": "words/word_her.mp3",
+      "sentenceAudio": "sentences/sent_b396a4bc.mp3"
+    },
+    {
+      "wordId": 227,
+      "english": "name",
+      "wordAudio": "words/word_name.mp3",
+      "sentenceAudio": "sentences/sent_4a0804b8.mp3"
+    },
+    {
+      "wordId": 228,
+      "english": "has",
+      "wordAudio": "words/word_has.mp3",
+      "sentenceAudio": "sentences/sent_6facbdad.mp3"
+    },
+    {
+      "wordId": 229,
+      "english": "or",
+      "wordAudio": "words/word_or.mp3",
+      "sentenceAudio": "sentences/sent_f93671f0.mp3"
+    },
+    {
+      "wordId": 230,
+      "english": "right",
+      "wordAudio": "words/word_right.mp3",
+      "sentenceAudio": "sentences/sent_fe22c72a.mp3"
+    },
+    {
+      "wordId": 231,
+      "english": "hat",
+      "wordAudio": "words/word_hat.mp3",
+      "sentenceAudio": "sentences/sent_b598b69b.mp3"
+    },
+    {
+      "wordId": 232,
+      "english": "home",
+      "wordAudio": "words/word_home.mp3",
+      "sentenceAudio": "sentences/sent_39324743.mp3"
+    },
+    {
+      "wordId": 233,
+      "english": "room",
+      "wordAudio": "words/word_room.mp3",
+      "sentenceAudio": "sentences/sent_563887a9.mp3"
+    },
+    {
+      "wordId": 234,
+      "english": "bedroom",
+      "wordAudio": "words/word_bedroom.mp3",
+      "sentenceAudio": "sentences/sent_2728ca39.mp3"
+    },
+    {
+      "wordId": 235,
+      "english": "living room",
+      "wordAudio": "words/word_living_room.mp3",
+      "sentenceAudio": "sentences/sent_b01f6319.mp3"
+    },
+    {
+      "wordId": 236,
+      "english": "study",
+      "wordAudio": "words/word_study.mp3",
+      "sentenceAudio": "sentences/sent_a8012524.mp3"
+    },
+    {
+      "wordId": 237,
+      "english": "kitchen",
+      "wordAudio": "words/word_kitchen.mp3",
+      "sentenceAudio": "sentences/sent_be0d7317.mp3"
+    },
+    {
+      "wordId": 238,
+      "english": "bathroom",
+      "wordAudio": "words/word_bathroom.mp3",
+      "sentenceAudio": "sentences/sent_06d179b1.mp3"
+    },
+    {
+      "wordId": 239,
+      "english": "bed",
+      "wordAudio": "words/word_bed.mp3",
+      "sentenceAudio": "sentences/sent_b559f168.mp3"
+    },
+    {
+      "wordId": 240,
+      "english": "phone",
+      "wordAudio": "words/word_phone.mp3",
+      "sentenceAudio": "sentences/sent_eebbca33.mp3"
+    },
+    {
+      "wordId": 241,
+      "english": "table",
+      "wordAudio": "words/word_table.mp3",
+      "sentenceAudio": "sentences/sent_1f683fe1.mp3"
+    },
+    {
+      "wordId": 242,
+      "english": "sofa",
+      "wordAudio": "words/word_sofa.mp3",
+      "sentenceAudio": "sentences/sent_89447130.mp3"
+    },
+    {
+      "wordId": 243,
+      "english": "fridge",
+      "wordAudio": "words/word_fridge.mp3",
+      "sentenceAudio": "sentences/sent_b7dede7b.mp3"
+    },
+    {
+      "wordId": 244,
+      "english": "find",
+      "wordAudio": "words/word_find.mp3",
+      "sentenceAudio": "sentences/sent_f4a742f0.mp3"
+    },
+    {
+      "wordId": 245,
+      "english": "them",
+      "wordAudio": "words/word_them.mp3",
+      "sentenceAudio": "sentences/sent_b66ec921.mp3"
+    },
+    {
+      "wordId": 246,
+      "english": "come",
+      "wordAudio": "words/word_come.mp3",
+      "sentenceAudio": "sentences/sent_045e9aec.mp3"
+    },
+    {
+      "wordId": 247,
+      "english": "key",
+      "wordAudio": "words/word_key.mp3",
+      "sentenceAudio": "sentences/sent_76e46356.mp3"
+    },
+    {
+      "wordId": 248,
+      "english": "beef",
+      "wordAudio": "words/word_beef.mp3",
+      "sentenceAudio": "sentences/sent_cbd491b8.mp3"
+    },
+    {
+      "wordId": 249,
+      "english": "chicken",
+      "wordAudio": "words/word_chicken.mp3",
+      "sentenceAudio": "sentences/sent_086d53ef.mp3"
+    },
+    {
+      "wordId": 250,
+      "english": "noodles",
+      "wordAudio": "words/word_noodles.mp3",
+      "sentenceAudio": "sentences/sent_14cf7979.mp3"
+    },
+    {
+      "wordId": 251,
+      "english": "soup",
+      "wordAudio": "words/word_soup.mp3",
+      "sentenceAudio": "sentences/sent_4964715d.mp3"
+    },
+    {
+      "wordId": 252,
+      "english": "vegetable",
+      "wordAudio": "words/word_vegetable.mp3",
+      "sentenceAudio": "sentences/sent_f600d680.mp3"
+    },
+    {
+      "wordId": 253,
+      "english": "chopsticks",
+      "wordAudio": "words/word_chopsticks.mp3",
+      "sentenceAudio": "sentences/sent_c092b5c2.mp3"
+    },
+    {
+      "wordId": 254,
+      "english": "bowl",
+      "wordAudio": "words/word_bowl.mp3",
+      "sentenceAudio": "sentences/sent_6fb316d1.mp3"
+    },
+    {
+      "wordId": 255,
+      "english": "fork",
+      "wordAudio": "words/word_fork.mp3",
+      "sentenceAudio": "sentences/sent_a6cfd706.mp3"
+    },
+    {
+      "wordId": 256,
+      "english": "knife",
+      "wordAudio": "words/word_knife.mp3",
+      "sentenceAudio": "sentences/sent_edca49ea.mp3"
+    },
+    {
+      "wordId": 257,
+      "english": "spoon",
+      "wordAudio": "words/word_spoon.mp3",
+      "sentenceAudio": "sentences/sent_84aac9e8.mp3"
+    },
+    {
+      "wordId": 258,
+      "english": "dinner",
+      "wordAudio": "words/word_dinner.mp3",
+      "sentenceAudio": "sentences/sent_f651294c.mp3"
+    },
+    {
+      "wordId": 259,
+      "english": "ready",
+      "wordAudio": "words/word_ready.mp3",
+      "sentenceAudio": "sentences/sent_f651294c.mp3"
+    },
+    {
+      "wordId": 260,
+      "english": "would",
+      "wordAudio": "words/word_would.mp3",
+      "sentenceAudio": "sentences/sent_fc0dde88.mp3"
+    },
+    {
+      "wordId": 261,
+      "english": "pass",
+      "wordAudio": "words/word_pass.mp3",
+      "sentenceAudio": "sentences/sent_0a1202a3.mp3"
+    },
+    {
+      "wordId": 262,
+      "english": "cut",
+      "wordAudio": "words/word_cut.mp3",
+      "sentenceAudio": "sentences/sent_413bec08.mp3"
+    },
+    {
+      "wordId": 263,
+      "english": "use",
+      "wordAudio": "words/word_use.mp3",
+      "sentenceAudio": "sentences/sent_9da72338.mp3"
+    },
+    {
+      "wordId": 264,
+      "english": "parents",
+      "wordAudio": "words/word_parents.mp3",
+      "sentenceAudio": "sentences/sent_0ac15037.mp3"
+    },
+    {
+      "wordId": 265,
+      "english": "cousin",
+      "wordAudio": "words/word_cousin.mp3",
+      "sentenceAudio": "sentences/sent_451241c8.mp3"
+    },
+    {
+      "wordId": 266,
+      "english": "uncle",
+      "wordAudio": "words/word_uncle.mp3",
+      "sentenceAudio": "sentences/sent_bd92172c.mp3"
+    },
+    {
+      "wordId": 267,
+      "english": "aunt",
+      "wordAudio": "words/word_aunt.mp3",
+      "sentenceAudio": "sentences/sent_3362161e.mp3"
+    },
+    {
+      "wordId": 268,
+      "english": "baby",
+      "wordAudio": "words/word_baby.mp3",
+      "sentenceAudio": "sentences/sent_83a45c50.mp3"
+    },
+    {
+      "wordId": 269,
+      "english": "doctor",
+      "wordAudio": "words/word_doctor.mp3",
+      "sentenceAudio": "sentences/sent_e0744b3a.mp3"
+    },
+    {
+      "wordId": 270,
+      "english": "cook",
+      "wordAudio": "words/word_cook.mp3",
+      "sentenceAudio": "sentences/sent_146e34c8.mp3"
+    },
+    {
+      "wordId": 271,
+      "english": "driver",
+      "wordAudio": "words/word_driver.mp3",
+      "sentenceAudio": "sentences/sent_419c4b3a.mp3"
+    },
+    {
+      "wordId": 272,
+      "english": "farmer",
+      "wordAudio": "words/word_farmer.mp3",
+      "sentenceAudio": "sentences/sent_90155e1a.mp3"
+    },
+    {
+      "wordId": 273,
+      "english": "nurse",
+      "wordAudio": "words/word_nurse.mp3",
+      "sentenceAudio": "sentences/sent_3362161e.mp3"
+    },
+    {
+      "wordId": 274,
+      "english": "job",
+      "wordAudio": "words/word_job.mp3",
+      "sentenceAudio": "sentences/sent_53c4c802.mp3"
+    },
+    {
+      "wordId": 275,
+      "english": "people",
+      "wordAudio": "words/word_people.mp3",
+      "sentenceAudio": "sentences/sent_5120a308.mp3"
+    },
+    {
+      "wordId": 276,
+      "english": "but",
+      "wordAudio": "words/word_but.mp3",
+      "sentenceAudio": "sentences/sent_20d1c9d6.mp3"
+    },
+    {
+      "wordId": 277,
+      "english": "little",
+      "wordAudio": "words/word_little.mp3",
+      "sentenceAudio": "sentences/sent_efb20ea5.mp3"
+    },
+    {
+      "wordId": 278,
+      "english": "puppy",
+      "wordAudio": "words/word_puppy.mp3",
+      "sentenceAudio": "sentences/sent_7bcdaf59.mp3"
+    },
+    {
+      "wordId": 279,
+      "english": "football",
+      "wordAudio": "words/word_football.mp3",
+      "sentenceAudio": "sentences/sent_bc8b582a.mp3"
+    },
+    {
+      "wordId": 280,
+      "english": "basketball",
+      "wordAudio": "words/word_basketball.mp3",
+      "sentenceAudio": "sentences/sent_42e6f4e4.mp3"
+    },
+    {
+      "wordId": 281,
+      "english": "playground",
+      "wordAudio": "words/word_playground.mp3",
+      "sentenceAudio": "sentences/sent_bb61cb1f.mp3"
+    },
+    {
+      "wordId": 282,
+      "english": "garden",
+      "wordAudio": "words/word_garden.mp3",
+      "sentenceAudio": "sentences/sent_64420abb.mp3"
+    },
+    {
+      "wordId": 283,
+      "english": "library",
+      "wordAudio": "words/word_library.mp3",
+      "sentenceAudio": "sentences/sent_568257f9.mp3"
+    },
+    {
+      "wordId": 284,
+      "english": "art room",
+      "wordAudio": "words/word_art_room.mp3",
+      "sentenceAudio": "sentences/sent_f2b7ddb8.mp3"
+    },
+    {
+      "wordId": 285,
+      "english": "music room",
+      "wordAudio": "words/word_music_room.mp3",
+      "sentenceAudio": "sentences/sent_86b7ef9b.mp3"
+    },
+    {
+      "wordId": 286,
+      "english": "computer room",
+      "wordAudio": "words/word_computer_room.mp3",
+      "sentenceAudio": "sentences/sent_8f9cadb5.mp3"
+    },
+    {
+      "wordId": 287,
+      "english": "gym",
+      "wordAudio": "words/word_gym.mp3",
+      "sentenceAudio": "sentences/sent_7e965021.mp3"
+    },
+    {
+      "wordId": 288,
+      "english": "first",
+      "wordAudio": "words/word_first.mp3",
+      "sentenceAudio": "sentences/sent_2e2ba4ec.mp3"
+    },
+    {
+      "wordId": 289,
+      "english": "second",
+      "wordAudio": "words/word_second.mp3",
+      "sentenceAudio": "sentences/sent_350c30f4.mp3"
+    },
+    {
+      "wordId": 290,
+      "english": "next to",
+      "wordAudio": "words/word_next_to.mp3",
+      "sentenceAudio": "sentences/sent_ebed7732.mp3"
+    },
+    {
+      "wordId": 291,
+      "english": "homework",
+      "wordAudio": "words/word_homework.mp3",
+      "sentenceAudio": "sentences/sent_144786b5.mp3"
+    },
+    {
+      "wordId": 292,
+      "english": "class",
+      "wordAudio": "words/word_class.mp3",
+      "sentenceAudio": "sentences/sent_d082e0ee.mp3"
+    },
+    {
+      "wordId": 293,
+      "english": "forty",
+      "wordAudio": "words/word_forty.mp3",
+      "sentenceAudio": "sentences/sent_d117c002.mp3"
+    },
+    {
+      "wordId": 294,
+      "english": "way",
+      "wordAudio": "words/word_way.mp3",
+      "sentenceAudio": "sentences/sent_9aeb3eef.mp3"
+    },
+    {
+      "wordId": 295,
+      "english": "time",
+      "wordAudio": "words/word_time.mp3",
+      "sentenceAudio": "sentences/sent_67e07d17.mp3"
+    },
+    {
+      "wordId": 296,
+      "english": "o'clock",
+      "wordAudio": "words/word_oclock.mp3",
+      "sentenceAudio": "sentences/sent_9f30082f.mp3"
+    },
+    {
+      "wordId": 297,
+      "english": "lunch",
+      "wordAudio": "words/word_lunch.mp3",
+      "sentenceAudio": "sentences/sent_b82065d9.mp3"
+    },
+    {
+      "wordId": 298,
+      "english": "breakfast",
+      "wordAudio": "words/word_breakfast.mp3",
+      "sentenceAudio": "sentences/sent_7ddb416c.mp3"
+    },
+    {
+      "wordId": 299,
+      "english": "music",
+      "wordAudio": "words/word_music.mp3",
+      "sentenceAudio": "sentences/sent_5eb047f1.mp3"
+    },
+    {
+      "wordId": 300,
+      "english": "English",
+      "wordAudio": "words/word_english.mp3",
+      "sentenceAudio": "sentences/sent_a96c6cfb.mp3"
+    },
+    {
+      "wordId": 301,
+      "english": "get up",
+      "wordAudio": "words/word_get_up.mp3",
+      "sentenceAudio": "sentences/sent_f99d2590.mp3"
+    },
+    {
+      "wordId": 302,
+      "english": "go to school",
+      "wordAudio": "words/word_go_to_school.mp3",
+      "sentenceAudio": "sentences/sent_1fcb97c6.mp3"
+    },
+    {
+      "wordId": 303,
+      "english": "go home",
+      "wordAudio": "words/word_go_home.mp3",
+      "sentenceAudio": "sentences/sent_9a7345b2.mp3"
+    },
+    {
+      "wordId": 304,
+      "english": "go to bed",
+      "wordAudio": "words/word_go_to_bed.mp3",
+      "sentenceAudio": "sentences/sent_2b79553a.mp3"
+    },
+    {
+      "wordId": 305,
+      "english": "over",
+      "wordAudio": "words/word_over.mp3",
+      "sentenceAudio": "sentences/sent_6e633333.mp3"
+    },
+    {
+      "wordId": 306,
+      "english": "now",
+      "wordAudio": "words/word_now.mp3",
+      "sentenceAudio": "sentences/sent_5d459749.mp3"
+    },
+    {
+      "wordId": 307,
+      "english": "kid",
+      "wordAudio": "words/word_kid.mp3",
+      "sentenceAudio": "sentences/sent_c1b71d9f.mp3"
+    },
+    {
+      "wordId": 308,
+      "english": "just",
+      "wordAudio": "words/word_just.mp3",
+      "sentenceAudio": "sentences/sent_34f1d712.mp3"
+    },
+    {
+      "wordId": 309,
+      "english": "minute",
+      "wordAudio": "words/word_minute.mp3",
+      "sentenceAudio": "sentences/sent_86b14a21.mp3"
+    },
+    {
+      "wordId": 310,
+      "english": "hurry",
+      "wordAudio": "words/word_hurry.mp3",
+      "sentenceAudio": "sentences/sent_bae07e07.mp3"
+    },
+    {
+      "wordId": 311,
+      "english": "up",
+      "wordAudio": "words/word_up.mp3",
+      "sentenceAudio": "sentences/sent_be598c68.mp3"
+    },
+    {
+      "wordId": 312,
+      "english": "weather",
+      "wordAudio": "words/word_weather.mp3",
+      "sentenceAudio": "sentences/sent_84a760d2.mp3"
+    },
+    {
+      "wordId": 313,
+      "english": "cold",
+      "wordAudio": "words/word_cold.mp3",
+      "sentenceAudio": "sentences/sent_65a6f93d.mp3"
+    },
+    {
+      "wordId": 314,
+      "english": "warm",
+      "wordAudio": "words/word_warm.mp3",
+      "sentenceAudio": "sentences/sent_a6c63f87.mp3"
+    },
+    {
+      "wordId": 315,
+      "english": "hot",
+      "wordAudio": "words/word_hot.mp3",
+      "sentenceAudio": "sentences/sent_03431056.mp3"
+    },
+    {
+      "wordId": 316,
+      "english": "rainy",
+      "wordAudio": "words/word_rainy.mp3",
+      "sentenceAudio": "sentences/sent_db207073.mp3"
+    },
+    {
+      "wordId": 317,
+      "english": "windy",
+      "wordAudio": "words/word_windy.mp3",
+      "sentenceAudio": "sentences/sent_d11d7cf0.mp3"
+    },
+    {
+      "wordId": 318,
+      "english": "cloudy",
+      "wordAudio": "words/word_cloudy.mp3",
+      "sentenceAudio": "sentences/sent_52e2188b.mp3"
+    },
+    {
+      "wordId": 319,
+      "english": "snowy",
+      "wordAudio": "words/word_snowy.mp3",
+      "sentenceAudio": "sentences/sent_4db94a96.mp3"
+    },
+    {
+      "wordId": 320,
+      "english": "sunny",
+      "wordAudio": "words/word_sunny.mp3",
+      "sentenceAudio": "sentences/sent_b10678c5.mp3"
+    },
+    {
+      "wordId": 321,
+      "english": "outside",
+      "wordAudio": "words/word_outside.mp3",
+      "sentenceAudio": "sentences/sent_9d1d2f69.mp3"
+    },
+    {
+      "wordId": 322,
+      "english": "fly",
+      "wordAudio": "words/word_fly.mp3",
+      "sentenceAudio": "sentences/sent_d827cbcb.mp3"
+    },
+    {
+      "wordId": 323,
+      "english": "degree",
+      "wordAudio": "words/word_degree.mp3",
+      "sentenceAudio": "sentences/sent_9d193f92.mp3"
+    },
+    {
+      "wordId": 324,
+      "english": "Beijing",
+      "wordAudio": "words/word_beijing.mp3",
+      "sentenceAudio": "sentences/sent_1dddb580.mp3"
+    },
+    {
+      "wordId": 325,
+      "english": "New York",
+      "wordAudio": "words/word_new_york.mp3",
+      "sentenceAudio": "sentences/sent_738ce738.mp3"
+    },
+    {
+      "wordId": 326,
+      "english": "farm",
+      "wordAudio": "words/word_farm.mp3",
+      "sentenceAudio": "sentences/sent_d6c956ee.mp3"
+    },
+    {
+      "wordId": 327,
+      "english": "hen",
+      "wordAudio": "words/word_hen.mp3",
+      "sentenceAudio": "sentences/sent_4e29a8cb.mp3"
+    },
+    {
+      "wordId": 328,
+      "english": "cow",
+      "wordAudio": "words/word_cow.mp3",
+      "sentenceAudio": "sentences/sent_cbd6e1e4.mp3"
+    },
+    {
+      "wordId": 329,
+      "english": "horse",
+      "wordAudio": "words/word_horse.mp3",
+      "sentenceAudio": "sentences/sent_263ee08d.mp3"
+    },
+    {
+      "wordId": 330,
+      "english": "sheep",
+      "wordAudio": "words/word_sheep.mp3",
+      "sentenceAudio": "sentences/sent_b1d65e00.mp3"
+    },
+    {
+      "wordId": 331,
+      "english": "goat",
+      "wordAudio": "words/word_goat.mp3",
+      "sentenceAudio": "sentences/sent_16585aae.mp3"
+    },
+    {
+      "wordId": 332,
+      "english": "lamb",
+      "wordAudio": "words/word_lamb.mp3",
+      "sentenceAudio": "sentences/sent_30c856e1.mp3"
+    },
+    {
+      "wordId": 333,
+      "english": "tomato",
+      "wordAudio": "words/word_tomato.mp3",
+      "sentenceAudio": "sentences/sent_88912704.mp3"
+    },
+    {
+      "wordId": 334,
+      "english": "potato",
+      "wordAudio": "words/word_potato.mp3",
+      "sentenceAudio": "sentences/sent_ad9df5f0.mp3"
+    },
+    {
+      "wordId": 335,
+      "english": "carrot",
+      "wordAudio": "words/word_carrot.mp3",
+      "sentenceAudio": "sentences/sent_d95ac9b0.mp3"
+    },
+    {
+      "wordId": 336,
+      "english": "onion",
+      "wordAudio": "words/word_onion.mp3",
+      "sentenceAudio": "sentences/sent_4e696c5a.mp3"
+    },
+    {
+      "wordId": 337,
+      "english": "green beans",
+      "wordAudio": "words/word_green_beans.mp3",
+      "sentenceAudio": "sentences/sent_dc45a517.mp3"
+    },
+    {
+      "wordId": 338,
+      "english": "these",
+      "wordAudio": "words/word_these.mp3",
+      "sentenceAudio": "sentences/sent_2b869dc0.mp3"
+    },
+    {
+      "wordId": 339,
+      "english": "those",
+      "wordAudio": "words/word_those.mp3",
+      "sentenceAudio": "sentences/sent_39acbfff.mp3"
+    },
+    {
+      "wordId": 340,
+      "english": "yum",
+      "wordAudio": "words/word_yum.mp3",
+      "sentenceAudio": "sentences/sent_b8eb59a4.mp3"
+    },
+    {
+      "wordId": 341,
+      "english": "clothes",
+      "wordAudio": "words/word_clothes.mp3",
+      "sentenceAudio": "sentences/sent_866ced0f.mp3"
+    },
+    {
+      "wordId": 342,
+      "english": "shirt",
+      "wordAudio": "words/word_shirt.mp3",
+      "sentenceAudio": "sentences/sent_55278caf.mp3"
+    },
+    {
+      "wordId": 343,
+      "english": "T-shirt",
+      "wordAudio": "words/word_t-shirt.mp3",
+      "sentenceAudio": "sentences/sent_1b10723f.mp3"
+    },
+    {
+      "wordId": 344,
+      "english": "skirt",
+      "wordAudio": "words/word_skirt.mp3",
+      "sentenceAudio": "sentences/sent_639d88ff.mp3"
+    },
+    {
+      "wordId": 345,
+      "english": "dress",
+      "wordAudio": "words/word_dress.mp3",
+      "sentenceAudio": "sentences/sent_70b08d53.mp3"
+    },
+    {
+      "wordId": 346,
+      "english": "pants",
+      "wordAudio": "words/word_pants.mp3",
+      "sentenceAudio": "sentences/sent_7d56ae46.mp3"
+    },
+    {
+      "wordId": 347,
+      "english": "shorts",
+      "wordAudio": "words/word_shorts.mp3",
+      "sentenceAudio": "sentences/sent_839ff81b.mp3"
+    },
+    {
+      "wordId": 348,
+      "english": "jacket",
+      "wordAudio": "words/word_jacket.mp3",
+      "sentenceAudio": "sentences/sent_a88125b6.mp3"
+    },
+    {
+      "wordId": 349,
+      "english": "coat",
+      "wordAudio": "words/word_coat.mp3",
+      "sentenceAudio": "sentences/sent_c65919c7.mp3"
+    },
+    {
+      "wordId": 350,
+      "english": "sweater",
+      "wordAudio": "words/word_sweater.mp3",
+      "sentenceAudio": "sentences/sent_5080c3a9.mp3"
+    },
+    {
+      "wordId": 351,
+      "english": "sock",
+      "wordAudio": "words/word_sock.mp3",
+      "sentenceAudio": "sentences/sent_8f794420.mp3"
+    },
+    {
+      "wordId": 352,
+      "english": "jeans",
+      "wordAudio": "words/word_jeans.mp3",
+      "sentenceAudio": "sentences/sent_b80b39b8.mp3"
+    },
+    {
+      "wordId": 353,
+      "english": "put on",
+      "wordAudio": "words/word_put_on.mp3",
+      "sentenceAudio": "sentences/sent_a44a7beb.mp3"
+    },
+    {
+      "wordId": 354,
+      "english": "take off",
+      "wordAudio": "words/word_take_off.mp3",
+      "sentenceAudio": "sentences/sent_896937bf.mp3"
+    },
+    {
+      "wordId": 355,
+      "english": "hang up",
+      "wordAudio": "words/word_hang_up.mp3",
+      "sentenceAudio": "sentences/sent_5471a8ae.mp3"
+    },
+    {
+      "wordId": 356,
+      "english": "wear",
+      "wordAudio": "words/word_wear.mp3",
+      "sentenceAudio": "sentences/sent_3d879121.mp3"
+    },
+    {
+      "wordId": 357,
+      "english": "whose",
+      "wordAudio": "words/word_whose.mp3",
+      "sentenceAudio": "sentences/sent_33186b68.mp3"
+    },
+    {
+      "wordId": 358,
+      "english": "mine",
+      "wordAudio": "words/word_mine.mp3",
+      "sentenceAudio": "sentences/sent_4e9b8869.mp3"
+    },
+    {
+      "wordId": 359,
+      "english": "yours",
+      "wordAudio": "words/word_yours.mp3",
+      "sentenceAudio": "sentences/sent_0c588073.mp3"
+    },
+    {
+      "wordId": 360,
+      "english": "pack",
+      "wordAudio": "words/word_pack.mp3",
+      "sentenceAudio": "sentences/sent_95e4f211.mp3"
+    },
+    {
+      "wordId": 361,
+      "english": "shop",
+      "wordAudio": "words/word_shop.mp3",
+      "sentenceAudio": "sentences/sent_e2055484.mp3"
+    },
+    {
+      "wordId": 362,
+      "english": "glove",
+      "wordAudio": "words/word_glove.mp3",
+      "sentenceAudio": "sentences/sent_ec8b7756.mp3"
+    },
+    {
+      "wordId": 363,
+      "english": "scarf",
+      "wordAudio": "words/word_scarf.mp3",
+      "sentenceAudio": "sentences/sent_75ea833c.mp3"
+    },
+    {
+      "wordId": 364,
+      "english": "umbrella",
+      "wordAudio": "words/word_umbrella.mp3",
+      "sentenceAudio": "sentences/sent_779d21b1.mp3"
+    },
+    {
+      "wordId": 365,
+      "english": "sunglasses",
+      "wordAudio": "words/word_sunglasses.mp3",
+      "sentenceAudio": "sentences/sent_97c60e2f.mp3"
+    },
+    {
+      "wordId": 366,
+      "english": "pretty",
+      "wordAudio": "words/word_pretty.mp3",
+      "sentenceAudio": "sentences/sent_9370784b.mp3"
+    },
+    {
+      "wordId": 367,
+      "english": "expensive",
+      "wordAudio": "words/word_expensive.mp3",
+      "sentenceAudio": "sentences/sent_2c2ed0eb.mp3"
+    },
+    {
+      "wordId": 368,
+      "english": "cheap",
+      "wordAudio": "words/word_cheap.mp3",
+      "sentenceAudio": "sentences/sent_59a2d67c.mp3"
+    },
+    {
+      "wordId": 369,
+      "english": "nice",
+      "wordAudio": "words/word_nice.mp3",
+      "sentenceAudio": "sentences/sent_71f7da5f.mp3"
+    },
+    {
+      "wordId": 370,
+      "english": "try",
+      "wordAudio": "words/word_try.mp3",
+      "sentenceAudio": "sentences/sent_3362f557.mp3"
+    },
+    {
+      "wordId": 371,
+      "english": "size",
+      "wordAudio": "words/word_size.mp3",
+      "sentenceAudio": "sentences/sent_902622bd.mp3"
+    },
+    {
+      "wordId": 372,
+      "english": "of course",
+      "wordAudio": "words/word_of_course.mp3",
+      "sentenceAudio": "sentences/sent_eca85941.mp3"
+    },
+    {
+      "wordId": 373,
+      "english": "too",
+      "wordAudio": "words/word_too.mp3",
+      "sentenceAudio": "sentences/sent_2a238c99.mp3"
+    },
+    {
+      "wordId": 374,
+      "english": "just",
+      "wordAudio": "words/word_just.mp3",
+      "sentenceAudio": "sentences/sent_bc26dfa3.mp3"
+    },
+    {
+      "wordId": 375,
+      "english": "how much",
+      "wordAudio": "words/word_how_much.mp3",
+      "sentenceAudio": "sentences/sent_6ca7524a.mp3"
+    },
+    {
+      "wordId": 376,
+      "english": "yuan",
+      "wordAudio": "words/word_yuan.mp3",
+      "sentenceAudio": "sentences/sent_e120cecc.mp3"
+    },
+    {
+      "wordId": 377,
+      "english": "dollar",
+      "wordAudio": "words/word_dollar.mp3",
+      "sentenceAudio": "sentences/sent_91ae76ac.mp3"
+    },
+    {
+      "wordId": 378,
+      "english": "us",
+      "wordAudio": "words/word_us.mp3",
+      "sentenceAudio": "sentences/sent_5417043d.mp3"
+    },
+    {
+      "wordId": 379,
+      "english": "young",
+      "wordAudio": "words/word_young.mp3",
+      "sentenceAudio": "sentences/sent_f4da3805.mp3"
+    },
+    {
+      "wordId": 380,
+      "english": "kind",
+      "wordAudio": "words/word_kind.mp3",
+      "sentenceAudio": "sentences/sent_a4408f89.mp3"
+    },
+    {
+      "wordId": 381,
+      "english": "strict",
+      "wordAudio": "words/word_strict.mp3",
+      "sentenceAudio": "sentences/sent_2c518ff8.mp3"
+    },
+    {
+      "wordId": 382,
+      "english": "polite",
+      "wordAudio": "words/word_polite.mp3",
+      "sentenceAudio": "sentences/sent_dfd0ccfe.mp3"
+    },
+    {
+      "wordId": 383,
+      "english": "helpful",
+      "wordAudio": "words/word_helpful.mp3",
+      "sentenceAudio": "sentences/sent_5f81b708.mp3"
+    },
+    {
+      "wordId": 384,
+      "english": "clever",
+      "wordAudio": "words/word_clever.mp3",
+      "sentenceAudio": "sentences/sent_f228583b.mp3"
+    },
+    {
+      "wordId": 385,
+      "english": "shy",
+      "wordAudio": "words/word_shy.mp3",
+      "sentenceAudio": "sentences/sent_05fdad01.mp3"
+    },
+    {
+      "wordId": 386,
+      "english": "know",
+      "wordAudio": "words/word_know.mp3",
+      "sentenceAudio": "sentences/sent_b3ad0046.mp3"
+    },
+    {
+      "wordId": 387,
+      "english": "our",
+      "wordAudio": "words/word_our.mp3",
+      "sentenceAudio": "sentences/sent_f517819c.mp3"
+    },
+    {
+      "wordId": 388,
+      "english": "will",
+      "wordAudio": "words/word_will.mp3",
+      "sentenceAudio": "sentences/sent_195fecae.mp3"
+    },
+    {
+      "wordId": 389,
+      "english": "sometimes",
+      "wordAudio": "words/word_sometimes.mp3",
+      "sentenceAudio": "sentences/sent_00080669.mp3"
+    },
+    {
+      "wordId": 390,
+      "english": "robot",
+      "wordAudio": "words/word_robot.mp3",
+      "sentenceAudio": "sentences/sent_ebace465.mp3"
+    },
+    {
+      "wordId": 391,
+      "english": "speak",
+      "wordAudio": "words/word_speak.mp3",
+      "sentenceAudio": "sentences/sent_2e1308d1.mp3"
+    },
+    {
+      "wordId": 392,
+      "english": "finish",
+      "wordAudio": "words/word_finish.mp3",
+      "sentenceAudio": "sentences/sent_18d6deee.mp3"
+    },
+    {
+      "wordId": 393,
+      "english": "Monday",
+      "wordAudio": "words/word_monday.mp3",
+      "sentenceAudio": "sentences/sent_c459ea35.mp3"
+    },
+    {
+      "wordId": 394,
+      "english": "Tuesday",
+      "wordAudio": "words/word_tuesday.mp3",
+      "sentenceAudio": "sentences/sent_64c3a5e4.mp3"
+    },
+    {
+      "wordId": 395,
+      "english": "Wednesday",
+      "wordAudio": "words/word_wednesday.mp3",
+      "sentenceAudio": "sentences/sent_bbac95b1.mp3"
+    },
+    {
+      "wordId": 396,
+      "english": "Thursday",
+      "wordAudio": "words/word_thursday.mp3",
+      "sentenceAudio": "sentences/sent_7d575ccc.mp3"
+    },
+    {
+      "wordId": 397,
+      "english": "Friday",
+      "wordAudio": "words/word_friday.mp3",
+      "sentenceAudio": "sentences/sent_27c1222b.mp3"
+    },
+    {
+      "wordId": 398,
+      "english": "Saturday",
+      "wordAudio": "words/word_saturday.mp3",
+      "sentenceAudio": "sentences/sent_d38f1946.mp3"
+    },
+    {
+      "wordId": 399,
+      "english": "Sunday",
+      "wordAudio": "words/word_sunday.mp3",
+      "sentenceAudio": "sentences/sent_270f2615.mp3"
+    },
+    {
+      "wordId": 400,
+      "english": "weekend",
+      "wordAudio": "words/word_weekend.mp3",
+      "sentenceAudio": "sentences/sent_0a38f9f7.mp3"
+    },
+    {
+      "wordId": 401,
+      "english": "wash",
+      "wordAudio": "words/word_wash.mp3",
+      "sentenceAudio": "sentences/sent_9780c917.mp3"
+    },
+    {
+      "wordId": 402,
+      "english": "watch",
+      "wordAudio": "words/word_watch.mp3",
+      "sentenceAudio": "sentences/sent_c372c328.mp3"
+    },
+    {
+      "wordId": 403,
+      "english": "read",
+      "wordAudio": "words/word_read.mp3",
+      "sentenceAudio": "sentences/sent_b37f8bcc.mp3"
+    },
+    {
+      "wordId": 404,
+      "english": "play",
+      "wordAudio": "words/word_play.mp3",
+      "sentenceAudio": "sentences/sent_47d8276f.mp3"
+    },
+    {
+      "wordId": 405,
+      "english": "often",
+      "wordAudio": "words/word_often.mp3",
+      "sentenceAudio": "sentences/sent_ce8a0bd7.mp3"
+    },
+    {
+      "wordId": 406,
+      "english": "every",
+      "wordAudio": "words/word_every.mp3",
+      "sentenceAudio": "sentences/sent_aab8248a.mp3"
+    },
+    {
+      "wordId": 407,
+      "english": "day",
+      "wordAudio": "words/word_day.mp3",
+      "sentenceAudio": "sentences/sent_8a24d261.mp3"
+    },
+    {
+      "wordId": 408,
+      "english": "schedule",
+      "wordAudio": "words/word_schedule.mp3",
+      "sentenceAudio": "sentences/sent_03289752.mp3"
+    },
+    {
+      "wordId": 409,
+      "english": "sandwich",
+      "wordAudio": "words/word_sandwich.mp3",
+      "sentenceAudio": "sentences/sent_d285f059.mp3"
+    },
+    {
+      "wordId": 410,
+      "english": "salad",
+      "wordAudio": "words/word_salad.mp3",
+      "sentenceAudio": "sentences/sent_5542283e.mp3"
+    },
+    {
+      "wordId": 411,
+      "english": "hamburger",
+      "wordAudio": "words/word_hamburger.mp3",
+      "sentenceAudio": "sentences/sent_25d460b2.mp3"
+    },
+    {
+      "wordId": 412,
+      "english": "ice cream",
+      "wordAudio": "words/word_ice_cream.mp3",
+      "sentenceAudio": "sentences/sent_967d0a05.mp3"
+    },
+    {
+      "wordId": 413,
+      "english": "tea",
+      "wordAudio": "words/word_tea.mp3",
+      "sentenceAudio": "sentences/sent_a3a36e55.mp3"
+    },
+    {
+      "wordId": 414,
+      "english": "fresh",
+      "wordAudio": "words/word_fresh.mp3",
+      "sentenceAudio": "sentences/sent_4e1cf266.mp3"
+    },
+    {
+      "wordId": 415,
+      "english": "healthy",
+      "wordAudio": "words/word_healthy.mp3",
+      "sentenceAudio": "sentences/sent_6a675557.mp3"
+    },
+    {
+      "wordId": 416,
+      "english": "delicious",
+      "wordAudio": "words/word_delicious.mp3",
+      "sentenceAudio": "sentences/sent_ca69df11.mp3"
+    },
+    {
+      "wordId": 417,
+      "english": "hot",
+      "wordAudio": "words/word_hot.mp3",
+      "sentenceAudio": "sentences/sent_b94ed4b0.mp3"
+    },
+    {
+      "wordId": 418,
+      "english": "sweet",
+      "wordAudio": "words/word_sweet.mp3",
+      "sentenceAudio": "sentences/sent_374ce344.mp3"
+    },
+    {
+      "wordId": 419,
+      "english": "salty",
+      "wordAudio": "words/word_salty.mp3",
+      "sentenceAudio": "sentences/sent_05f694c3.mp3"
+    },
+    {
+      "wordId": 420,
+      "english": "favourite",
+      "wordAudio": "words/word_favourite.mp3",
+      "sentenceAudio": "sentences/sent_ad5497c1.mp3"
+    },
+    {
+      "wordId": 421,
+      "english": "thirsty",
+      "wordAudio": "words/word_thirsty.mp3",
+      "sentenceAudio": "sentences/sent_7d2815f8.mp3"
+    },
+    {
+      "wordId": 422,
+      "english": "hungry",
+      "wordAudio": "words/word_hungry.mp3",
+      "sentenceAudio": "sentences/sent_b79e4544.mp3"
+    },
+    {
+      "wordId": 423,
+      "english": "food",
+      "wordAudio": "words/word_food.mp3",
+      "sentenceAudio": "sentences/sent_404c93d1.mp3"
+    },
+    {
+      "wordId": 424,
+      "english": "order",
+      "wordAudio": "words/word_order.mp3",
+      "sentenceAudio": "sentences/sent_9c6cdef5.mp3"
+    },
+    {
+      "wordId": 425,
+      "english": "sing",
+      "wordAudio": "words/word_sing.mp3",
+      "sentenceAudio": "sentences/sent_c538a23b.mp3"
+    },
+    {
+      "wordId": 426,
+      "english": "song",
+      "wordAudio": "words/word_song.mp3",
+      "sentenceAudio": "sentences/sent_77543861.mp3"
+    },
+    {
+      "wordId": 427,
+      "english": "dance",
+      "wordAudio": "words/word_dance.mp3",
+      "sentenceAudio": "sentences/sent_55e06042.mp3"
+    },
+    {
+      "wordId": 428,
+      "english": "draw",
+      "wordAudio": "words/word_draw.mp3",
+      "sentenceAudio": "sentences/sent_51252ed1.mp3"
+    },
+    {
+      "wordId": 429,
+      "english": "cartoon",
+      "wordAudio": "words/word_cartoon.mp3",
+      "sentenceAudio": "sentences/sent_c0062730.mp3"
+    },
+    {
+      "wordId": 430,
+      "english": "swim",
+      "wordAudio": "words/word_swim.mp3",
+      "sentenceAudio": "sentences/sent_e8092651.mp3"
+    },
+    {
+      "wordId": 431,
+      "english": "play basketball",
+      "wordAudio": "words/word_play_basketball.mp3",
+      "sentenceAudio": "sentences/sent_0fee1637.mp3"
+    },
+    {
+      "wordId": 432,
+      "english": "play ping-pong",
+      "wordAudio": "words/word_play_ping-pong.mp3",
+      "sentenceAudio": "sentences/sent_0ea49427.mp3"
+    },
+    {
+      "wordId": 433,
+      "english": "speak English",
+      "wordAudio": "words/word_speak_english.mp3",
+      "sentenceAudio": "sentences/sent_cf0f2d13.mp3"
+    },
+    {
+      "wordId": 434,
+      "english": "cook",
+      "wordAudio": "words/word_cook.mp3",
+      "sentenceAudio": "sentences/sent_be6a3953.mp3"
+    },
+    {
+      "wordId": 435,
+      "english": "kung fu",
+      "wordAudio": "words/word_kung_fu.mp3",
+      "sentenceAudio": "sentences/sent_c83c7972.mp3"
+    },
+    {
+      "wordId": 436,
+      "english": "wonderful",
+      "wordAudio": "words/word_wonderful.mp3",
+      "sentenceAudio": "sentences/sent_949fd7c4.mp3"
+    },
+    {
+      "wordId": 437,
+      "english": "learn",
+      "wordAudio": "words/word_learn.mp3",
+      "sentenceAudio": "sentences/sent_95e8b353.mp3"
+    },
+    {
+      "wordId": 438,
+      "english": "any",
+      "wordAudio": "words/word_any.mp3",
+      "sentenceAudio": "sentences/sent_6e194559.mp3"
+    },
+    {
+      "wordId": 439,
+      "english": "problem",
+      "wordAudio": "words/word_problem.mp3",
+      "sentenceAudio": "sentences/sent_5ca12039.mp3"
+    },
+    {
+      "wordId": 440,
+      "english": "no problem",
+      "wordAudio": "words/word_no_problem.mp3",
+      "sentenceAudio": "sentences/sent_d6c72210.mp3"
+    },
+    {
+      "wordId": 441,
+      "english": "party",
+      "wordAudio": "words/word_party.mp3",
+      "sentenceAudio": "sentences/sent_96473efb.mp3"
+    },
+    {
+      "wordId": 442,
+      "english": "next",
+      "wordAudio": "words/word_next.mp3",
+      "sentenceAudio": "sentences/sent_60a62ecc.mp3"
+    },
+    {
+      "wordId": 443,
+      "english": "clock",
+      "wordAudio": "words/word_clock.mp3",
+      "sentenceAudio": "sentences/sent_db00df18.mp3"
+    },
+    {
+      "wordId": 444,
+      "english": "plant",
+      "wordAudio": "words/word_plant.mp3",
+      "sentenceAudio": "sentences/sent_84be454f.mp3"
+    },
+    {
+      "wordId": 445,
+      "english": "bottle",
+      "wordAudio": "words/word_bottle.mp3",
+      "sentenceAudio": "sentences/sent_7c413af7.mp3"
+    },
+    {
+      "wordId": 446,
+      "english": "photo",
+      "wordAudio": "words/word_photo.mp3",
+      "sentenceAudio": "sentences/sent_f2533716.mp3"
+    },
+    {
+      "wordId": 447,
+      "english": "bike",
+      "wordAudio": "words/word_bike.mp3",
+      "sentenceAudio": "sentences/sent_2d80830b.mp3"
+    },
+    {
+      "wordId": 448,
+      "english": "between",
+      "wordAudio": "words/word_between.mp3",
+      "sentenceAudio": "sentences/sent_98220486.mp3"
+    },
+    {
+      "wordId": 449,
+      "english": "above",
+      "wordAudio": "words/word_above.mp3",
+      "sentenceAudio": "sentences/sent_bd6a77f4.mp3"
+    },
+    {
+      "wordId": 450,
+      "english": "beside",
+      "wordAudio": "words/word_beside.mp3",
+      "sentenceAudio": "sentences/sent_d444a1d2.mp3"
+    },
+    {
+      "wordId": 451,
+      "english": "behind",
+      "wordAudio": "words/word_behind.mp3",
+      "sentenceAudio": "sentences/sent_12d2cca9.mp3"
+    },
+    {
+      "wordId": 452,
+      "english": "in front of",
+      "wordAudio": "words/word_in_front_of.mp3",
+      "sentenceAudio": "sentences/sent_cae9c90a.mp3"
+    },
+    {
+      "wordId": 453,
+      "english": "there",
+      "wordAudio": "words/word_there.mp3",
+      "sentenceAudio": "sentences/sent_54baf066.mp3"
+    },
+    {
+      "wordId": 454,
+      "english": "lots of",
+      "wordAudio": "words/word_lots_of.mp3",
+      "sentenceAudio": "sentences/sent_84fbf980.mp3"
+    },
+    {
+      "wordId": 455,
+      "english": "dirty",
+      "wordAudio": "words/word_dirty.mp3",
+      "sentenceAudio": "sentences/sent_fb2c36b3.mp3"
+    },
+    {
+      "wordId": 456,
+      "english": "their",
+      "wordAudio": "words/word_their.mp3",
+      "sentenceAudio": "sentences/sent_f356e5a9.mp3"
+    },
+    {
+      "wordId": 457,
+      "english": "house",
+      "wordAudio": "words/word_house.mp3",
+      "sentenceAudio": "sentences/sent_e9d907e7.mp3"
+    },
+    {
+      "wordId": 458,
+      "english": "flower",
+      "wordAudio": "words/word_flower.mp3",
+      "sentenceAudio": "sentences/sent_c5d507f3.mp3"
+    },
+    {
+      "wordId": 459,
+      "english": "lots",
+      "wordAudio": "words/word_lots.mp3",
+      "sentenceAudio": "sentences/sent_a75765c1.mp3"
+    },
+    {
+      "wordId": 460,
+      "english": "park",
+      "wordAudio": "words/word_park.mp3",
+      "sentenceAudio": "sentences/sent_b477e83d.mp3"
+    },
+    {
+      "wordId": 461,
+      "english": "lake",
+      "wordAudio": "words/word_lake.mp3",
+      "sentenceAudio": "sentences/sent_ea001904.mp3"
+    },
+    {
+      "wordId": 462,
+      "english": "river",
+      "wordAudio": "words/word_river.mp3",
+      "sentenceAudio": "sentences/sent_a6268e77.mp3"
+    },
+    {
+      "wordId": 463,
+      "english": "forest",
+      "wordAudio": "words/word_forest.mp3",
+      "sentenceAudio": "sentences/sent_ad6d333e.mp3"
+    },
+    {
+      "wordId": 464,
+      "english": "mountain",
+      "wordAudio": "words/word_mountain.mp3",
+      "sentenceAudio": "sentences/sent_85370668.mp3"
+    },
+    {
+      "wordId": 465,
+      "english": "hill",
+      "wordAudio": "words/word_hill.mp3",
+      "sentenceAudio": "sentences/sent_a096c7f8.mp3"
+    },
+    {
+      "wordId": 466,
+      "english": "tree",
+      "wordAudio": "words/word_tree.mp3",
+      "sentenceAudio": "sentences/sent_2e9025c9.mp3"
+    },
+    {
+      "wordId": 467,
+      "english": "bridge",
+      "wordAudio": "words/word_bridge.mp3",
+      "sentenceAudio": "sentences/sent_d0f876b0.mp3"
+    },
+    {
+      "wordId": 468,
+      "english": "building",
+      "wordAudio": "words/word_building.mp3",
+      "sentenceAudio": "sentences/sent_d6ae0d32.mp3"
+    },
+    {
+      "wordId": 469,
+      "english": "village",
+      "wordAudio": "words/word_village.mp3",
+      "sentenceAudio": "sentences/sent_80390b1c.mp3"
+    },
+    {
+      "wordId": 470,
+      "english": "nature",
+      "wordAudio": "words/word_nature.mp3",
+      "sentenceAudio": "sentences/sent_7207ce41.mp3"
+    },
+    {
+      "wordId": 471,
+      "english": "rabbit",
+      "wordAudio": "words/word_rabbit.mp3",
+      "sentenceAudio": "sentences/sent_071d90dd.mp3"
+    },
+    {
+      "wordId": 472,
+      "english": "high",
+      "wordAudio": "words/word_high.mp3",
+      "sentenceAudio": "sentences/sent_85370668.mp3"
+    },
+    {
+      "wordId": 473,
+      "english": "go boating",
+      "wordAudio": "words/word_go_boating.mp3",
+      "sentenceAudio": "sentences/sent_c320c79d.mp3"
+    },
+    {
+      "wordId": 474,
+      "english": "aren't",
+      "wordAudio": "words/word_arent.mp3",
+      "sentenceAudio": "sentences/sent_b2233a54.mp3"
+    },
+    {
+      "wordId": 475,
+      "english": "eat breakfast",
+      "wordAudio": "words/word_eat_breakfast.mp3",
+      "sentenceAudio": "sentences/sent_312d2ef5.mp3"
+    },
+    {
+      "wordId": 476,
+      "english": "have ... class",
+      "wordAudio": "words/word_have_..._class.mp3",
+      "sentenceAudio": "sentences/sent_7be72faa.mp3"
+    },
+    {
+      "wordId": 477,
+      "english": "eat lunch",
+      "wordAudio": "words/word_eat_lunch.mp3",
+      "sentenceAudio": "sentences/sent_b8b737d4.mp3"
+    },
+    {
+      "wordId": 478,
+      "english": "do morning exercises",
+      "wordAudio": "words/word_do_morning_exercises.mp3",
+      "sentenceAudio": "sentences/sent_bebf7728.mp3"
+    },
+    {
+      "wordId": 479,
+      "english": "eat dinner",
+      "wordAudio": "words/word_eat_dinner.mp3",
+      "sentenceAudio": "sentences/sent_71bacd6f.mp3"
+    },
+    {
+      "wordId": 480,
+      "english": "clean my room",
+      "wordAudio": "words/word_clean_my_room.mp3",
+      "sentenceAudio": "sentences/sent_7fe6ff30.mp3"
+    },
+    {
+      "wordId": 481,
+      "english": "go for a walk",
+      "wordAudio": "words/word_go_for_a_walk.mp3",
+      "sentenceAudio": "sentences/sent_cdf185c6.mp3"
+    },
+    {
+      "wordId": 482,
+      "english": "go shopping",
+      "wordAudio": "words/word_go_shopping.mp3",
+      "sentenceAudio": "sentences/sent_b6318a7b.mp3"
+    },
+    {
+      "wordId": 483,
+      "english": "take",
+      "wordAudio": "words/word_take.mp3",
+      "sentenceAudio": "sentences/sent_c8f4f227.mp3"
+    },
+    {
+      "wordId": 484,
+      "english": "dancing",
+      "wordAudio": "words/word_dancing.mp3",
+      "sentenceAudio": "sentences/sent_d4772017.mp3"
+    },
+    {
+      "wordId": 485,
+      "english": "shopping",
+      "wordAudio": "words/word_shopping.mp3",
+      "sentenceAudio": "sentences/sent_a01272d2.mp3"
+    },
+    {
+      "wordId": 486,
+      "english": "usually",
+      "wordAudio": "words/word_usually.mp3",
+      "sentenceAudio": "sentences/sent_5825182a.mp3"
+    },
+    {
+      "wordId": 487,
+      "english": "together",
+      "wordAudio": "words/word_together.mp3",
+      "sentenceAudio": "sentences/sent_47d8276f.mp3"
+    },
+    {
+      "wordId": 488,
+      "english": "when",
+      "wordAudio": "words/word_when.mp3",
+      "sentenceAudio": "sentences/sent_2206abcb.mp3"
+    },
+    {
+      "wordId": 489,
+      "english": "exercise",
+      "wordAudio": "words/word_exercise.mp3",
+      "sentenceAudio": "sentences/sent_8b679df1.mp3"
+    },
+    {
+      "wordId": 490,
+      "english": "after",
+      "wordAudio": "words/word_after.mp3",
+      "sentenceAudio": "sentences/sent_5a53e971.mp3"
+    },
+    {
+      "wordId": 491,
+      "english": "a.m.",
+      "wordAudio": "words/word_a.m..mp3",
+      "sentenceAudio": "sentences/sent_5835f659.mp3"
+    },
+    {
+      "wordId": 492,
+      "english": "p.m.",
+      "wordAudio": "words/word_p.m..mp3",
+      "sentenceAudio": "sentences/sent_a9bd2eb3.mp3"
+    },
+    {
+      "wordId": 493,
+      "english": "noon",
+      "wordAudio": "words/word_noon.mp3",
+      "sentenceAudio": "sentences/sent_b8b737d4.mp3"
+    },
+    {
+      "wordId": 494,
+      "english": "morning",
+      "wordAudio": "words/word_morning.mp3",
+      "sentenceAudio": "sentences/sent_0eb32fda.mp3"
+    },
+    {
+      "wordId": 495,
+      "english": "evening",
+      "wordAudio": "words/word_evening.mp3",
+      "sentenceAudio": "sentences/sent_c580870e.mp3"
+    },
+    {
+      "wordId": 496,
+      "english": "night",
+      "wordAudio": "words/word_night.mp3",
+      "sentenceAudio": "sentences/sent_bc7f9299.mp3"
+    },
+    {
+      "wordId": 497,
+      "english": "spring",
+      "wordAudio": "words/word_spring.mp3",
+      "sentenceAudio": "sentences/sent_d330f309.mp3"
+    },
+    {
+      "wordId": 498,
+      "english": "summer",
+      "wordAudio": "words/word_summer.mp3",
+      "sentenceAudio": "sentences/sent_b67860eb.mp3"
+    },
+    {
+      "wordId": 499,
+      "english": "autumn",
+      "wordAudio": "words/word_autumn.mp3",
+      "sentenceAudio": "sentences/sent_090e6e63.mp3"
+    },
+    {
+      "wordId": 500,
+      "english": "winter",
+      "wordAudio": "words/word_winter.mp3",
+      "sentenceAudio": "sentences/sent_8bea6581.mp3"
+    },
+    {
+      "wordId": 501,
+      "english": "season",
+      "wordAudio": "words/word_season.mp3",
+      "sentenceAudio": "sentences/sent_726d3b7b.mp3"
+    },
+    {
+      "wordId": 502,
+      "english": "go swimming",
+      "wordAudio": "words/word_go_swimming.mp3",
+      "sentenceAudio": "sentences/sent_327cca7f.mp3"
+    },
+    {
+      "wordId": 503,
+      "english": "go on a picnic",
+      "wordAudio": "words/word_go_on_a_picnic.mp3",
+      "sentenceAudio": "sentences/sent_ba10a824.mp3"
+    },
+    {
+      "wordId": 504,
+      "english": "pick apples",
+      "wordAudio": "words/word_pick_apples.mp3",
+      "sentenceAudio": "sentences/sent_9a0e261d.mp3"
+    },
+    {
+      "wordId": 505,
+      "english": "make a snowman",
+      "wordAudio": "words/word_make_a_snowman.mp3",
+      "sentenceAudio": "sentences/sent_d864e8da.mp3"
+    },
+    {
+      "wordId": 506,
+      "english": "picnic",
+      "wordAudio": "words/word_picnic.mp3",
+      "sentenceAudio": "sentences/sent_d6046871.mp3"
+    },
+    {
+      "wordId": 507,
+      "english": "snow",
+      "wordAudio": "words/word_snow.mp3",
+      "sentenceAudio": "sentences/sent_4620a91e.mp3"
+    },
+    {
+      "wordId": 508,
+      "english": "snowman",
+      "wordAudio": "words/word_snowman.mp3",
+      "sentenceAudio": "sentences/sent_f55f0df6.mp3"
+    },
+    {
+      "wordId": 509,
+      "english": "which",
+      "wordAudio": "words/word_which.mp3",
+      "sentenceAudio": "sentences/sent_36db269c.mp3"
+    },
+    {
+      "wordId": 510,
+      "english": "best",
+      "wordAudio": "words/word_best.mp3",
+      "sentenceAudio": "sentences/sent_8e3ce041.mp3"
+    },
+    {
+      "wordId": 511,
+      "english": "because",
+      "wordAudio": "words/word_because.mp3",
+      "sentenceAudio": "sentences/sent_8be04e64.mp3"
+    },
+    {
+      "wordId": 512,
+      "english": "vacation",
+      "wordAudio": "words/word_vacation.mp3",
+      "sentenceAudio": "sentences/sent_edd48892.mp3"
+    },
+    {
+      "wordId": 513,
+      "english": "all",
+      "wordAudio": "words/word_all.mp3",
+      "sentenceAudio": "sentences/sent_ff91c238.mp3"
+    },
+    {
+      "wordId": 514,
+      "english": "leaf",
+      "wordAudio": "words/word_leaf.mp3",
+      "sentenceAudio": "sentences/sent_2d3ffeec.mp3"
+    },
+    {
+      "wordId": 515,
+      "english": "paint",
+      "wordAudio": "words/word_paint.mp3",
+      "sentenceAudio": "sentences/sent_cb7ba5b9.mp3"
+    },
+    {
+      "wordId": 516,
+      "english": "January",
+      "wordAudio": "words/word_january.mp3",
+      "sentenceAudio": "sentences/sent_4aeca7c7.mp3"
+    },
+    {
+      "wordId": 517,
+      "english": "February",
+      "wordAudio": "words/word_february.mp3",
+      "sentenceAudio": "sentences/sent_fbdd13e9.mp3"
+    },
+    {
+      "wordId": 518,
+      "english": "March",
+      "wordAudio": "words/word_march.mp3",
+      "sentenceAudio": "sentences/sent_16bfd3de.mp3"
+    },
+    {
+      "wordId": 519,
+      "english": "April",
+      "wordAudio": "words/word_april.mp3",
+      "sentenceAudio": "sentences/sent_08b27ce1.mp3"
+    },
+    {
+      "wordId": 520,
+      "english": "May",
+      "wordAudio": "words/word_may.mp3",
+      "sentenceAudio": "sentences/sent_790bb024.mp3"
+    },
+    {
+      "wordId": 521,
+      "english": "June",
+      "wordAudio": "words/word_june.mp3",
+      "sentenceAudio": "sentences/sent_340b9d14.mp3"
+    },
+    {
+      "wordId": 522,
+      "english": "July",
+      "wordAudio": "words/word_july.mp3",
+      "sentenceAudio": "sentences/sent_6b323ef4.mp3"
+    },
+    {
+      "wordId": 523,
+      "english": "August",
+      "wordAudio": "words/word_august.mp3",
+      "sentenceAudio": "sentences/sent_7c1a7ed1.mp3"
+    },
+    {
+      "wordId": 524,
+      "english": "September",
+      "wordAudio": "words/word_september.mp3",
+      "sentenceAudio": "sentences/sent_1290c31c.mp3"
+    },
+    {
+      "wordId": 525,
+      "english": "October",
+      "wordAudio": "words/word_october.mp3",
+      "sentenceAudio": "sentences/sent_3232f7c2.mp3"
+    },
+    {
+      "wordId": 526,
+      "english": "November",
+      "wordAudio": "words/word_november.mp3",
+      "sentenceAudio": "sentences/sent_45a87d78.mp3"
+    },
+    {
+      "wordId": 527,
+      "english": "December",
+      "wordAudio": "words/word_december.mp3",
+      "sentenceAudio": "sentences/sent_4901c379.mp3"
+    },
+    {
+      "wordId": 528,
+      "english": "few",
+      "wordAudio": "words/word_few.mp3",
+      "sentenceAudio": "sentences/sent_6d83147a.mp3"
+    },
+    {
+      "wordId": 529,
+      "english": "thing",
+      "wordAudio": "words/word_thing.mp3",
+      "sentenceAudio": "sentences/sent_c18f563f.mp3"
+    },
+    {
+      "wordId": 530,
+      "english": "meet",
+      "wordAudio": "words/word_meet.mp3",
+      "sentenceAudio": "sentences/sent_67bd7ea9.mp3"
+    },
+    {
+      "wordId": 531,
+      "english": "sports meet",
+      "wordAudio": "words/word_sports_meet.mp3",
+      "sentenceAudio": "sentences/sent_d5b5c8ce.mp3"
+    },
+    {
+      "wordId": 532,
+      "english": "Easter",
+      "wordAudio": "words/word_easter.mp3",
+      "sentenceAudio": "sentences/sent_fb99c353.mp3"
+    },
+    {
+      "wordId": 533,
+      "english": "trip",
+      "wordAudio": "words/word_trip.mp3",
+      "sentenceAudio": "sentences/sent_b27cd035.mp3"
+    },
+    {
+      "wordId": 534,
+      "english": "year",
+      "wordAudio": "words/word_year.mp3",
+      "sentenceAudio": "sentences/sent_917d5ff6.mp3"
+    },
+    {
+      "wordId": 535,
+      "english": "plant",
+      "wordAudio": "words/word_plant.mp3",
+      "sentenceAudio": "sentences/sent_651e03bf.mp3"
+    },
+    {
+      "wordId": 536,
+      "english": "national",
+      "wordAudio": "words/word_national.mp3",
+      "sentenceAudio": "sentences/sent_f90ab9e1.mp3"
+    },
+    {
+      "wordId": 537,
+      "english": "American",
+      "wordAudio": "words/word_american.mp3",
+      "sentenceAudio": "sentences/sent_e30c5ed4.mp3"
+    },
+    {
+      "wordId": 538,
+      "english": "Thanksgiving",
+      "wordAudio": "words/word_thanksgiving.mp3",
+      "sentenceAudio": "sentences/sent_25518f7e.mp3"
+    },
+    {
+      "wordId": 539,
+      "english": "Christmas",
+      "wordAudio": "words/word_christmas.mp3",
+      "sentenceAudio": "sentences/sent_4757e749.mp3"
+    },
+    {
+      "wordId": 540,
+      "english": "holiday",
+      "wordAudio": "words/word_holiday.mp3",
+      "sentenceAudio": "sentences/sent_00abcd4e.mp3"
+    },
+    {
+      "wordId": 541,
+      "english": "game",
+      "wordAudio": "words/word_game.mp3",
+      "sentenceAudio": "sentences/sent_a71384e2.mp3"
+    },
+    {
+      "wordId": 542,
+      "english": "roll",
+      "wordAudio": "words/word_roll.mp3",
+      "sentenceAudio": "sentences/sent_26101352.mp3"
+    },
+    {
+      "wordId": 543,
+      "english": "look for",
+      "wordAudio": "words/word_look_for.mp3",
+      "sentenceAudio": "sentences/sent_73b8454b.mp3"
+    },
+    {
+      "wordId": 544,
+      "english": "chocolate",
+      "wordAudio": "words/word_chocolate.mp3",
+      "sentenceAudio": "sentences/sent_73df0a29.mp3"
+    },
+    {
+      "wordId": 545,
+      "english": "bunny",
+      "wordAudio": "words/word_bunny.mp3",
+      "sentenceAudio": "sentences/sent_57b8d3f2.mp3"
+    },
+    {
+      "wordId": 546,
+      "english": "first (1st)",
+      "wordAudio": "words/word_first_.mp3",
+      "sentenceAudio": "sentences/sent_beab5d92.mp3"
+    },
+    {
+      "wordId": 547,
+      "english": "second (2nd)",
+      "wordAudio": "words/word_second_.mp3",
+      "sentenceAudio": "sentences/sent_489a11b8.mp3"
+    },
+    {
+      "wordId": 548,
+      "english": "third (3rd)",
+      "wordAudio": "words/word_third_.mp3",
+      "sentenceAudio": "sentences/sent_59eec505.mp3"
+    },
+    {
+      "wordId": 549,
+      "english": "fourth (4th)",
+      "wordAudio": "words/word_fourth_.mp3",
+      "sentenceAudio": "sentences/sent_ee1aaafd.mp3"
+    },
+    {
+      "wordId": 550,
+      "english": "fifth (5th)",
+      "wordAudio": "words/word_fifth_.mp3",
+      "sentenceAudio": "sentences/sent_078a2134.mp3"
+    },
+    {
+      "wordId": 551,
+      "english": "twelfth (12th)",
+      "wordAudio": "words/word_twelfth_.mp3",
+      "sentenceAudio": "sentences/sent_99e2e4de.mp3"
+    },
+    {
+      "wordId": 552,
+      "english": "twentieth (20th)",
+      "wordAudio": "words/word_twentieth_.mp3",
+      "sentenceAudio": "sentences/sent_4d686fbc.mp3"
+    },
+    {
+      "wordId": 553,
+      "english": "twenty-first (21st)",
+      "wordAudio": "words/word_twenty-first_.mp3",
+      "sentenceAudio": "sentences/sent_931d103a.mp3"
+    },
+    {
+      "wordId": 554,
+      "english": "twenty-third (23rd)",
+      "wordAudio": "words/word_twenty-third_.mp3",
+      "sentenceAudio": "sentences/sent_f0aa0967.mp3"
+    },
+    {
+      "wordId": 555,
+      "english": "thirtieth (30th)",
+      "wordAudio": "words/word_thirtieth_.mp3",
+      "sentenceAudio": "sentences/sent_e4649c4a.mp3"
+    },
+    {
+      "wordId": 556,
+      "english": "birthday",
+      "wordAudio": "words/word_birthday.mp3",
+      "sentenceAudio": "sentences/sent_91e685f4.mp3"
+    },
+    {
+      "wordId": 557,
+      "english": "when",
+      "wordAudio": "words/word_when.mp3",
+      "sentenceAudio": "sentences/sent_73407d02.mp3"
+    },
+    {
+      "wordId": 558,
+      "english": "April Fool's Day",
+      "wordAudio": "words/word_april_fools_day.mp3",
+      "sentenceAudio": "sentences/sent_d5ab43d2.mp3"
+    },
+    {
+      "wordId": 559,
+      "english": "mine",
+      "wordAudio": "words/word_mine.mp3",
+      "sentenceAudio": "sentences/sent_601c1c27.mp3"
+    },
+    {
+      "wordId": 560,
+      "english": "yours",
+      "wordAudio": "words/word_yours.mp3",
+      "sentenceAudio": "sentences/sent_d651ca0b.mp3"
+    },
+    {
+      "wordId": 561,
+      "english": "his",
+      "wordAudio": "words/word_his.mp3",
+      "sentenceAudio": "sentences/sent_5ecf7b63.mp3"
+    },
+    {
+      "wordId": 562,
+      "english": "hers",
+      "wordAudio": "words/word_hers.mp3",
+      "sentenceAudio": "sentences/sent_37cb9349.mp3"
+    },
+    {
+      "wordId": 563,
+      "english": "theirs",
+      "wordAudio": "words/word_theirs.mp3",
+      "sentenceAudio": "sentences/sent_ba70cf34.mp3"
+    },
+    {
+      "wordId": 564,
+      "english": "ours",
+      "wordAudio": "words/word_ours.mp3",
+      "sentenceAudio": "sentences/sent_81881ac4.mp3"
+    },
+    {
+      "wordId": 565,
+      "english": "climbing",
+      "wordAudio": "words/word_climbing.mp3",
+      "sentenceAudio": "sentences/sent_9592436b.mp3"
+    },
+    {
+      "wordId": 566,
+      "english": "eating",
+      "wordAudio": "words/word_eating.mp3",
+      "sentenceAudio": "sentences/sent_c7f10d77.mp3"
+    },
+    {
+      "wordId": 567,
+      "english": "playing",
+      "wordAudio": "words/word_playing.mp3",
+      "sentenceAudio": "sentences/sent_a4189a3d.mp3"
+    },
+    {
+      "wordId": 568,
+      "english": "jumping",
+      "wordAudio": "words/word_jumping.mp3",
+      "sentenceAudio": "sentences/sent_10662a73.mp3"
+    },
+    {
+      "wordId": 569,
+      "english": "drinking",
+      "wordAudio": "words/word_drinking.mp3",
+      "sentenceAudio": "sentences/sent_4fe9da97.mp3"
+    },
+    {
+      "wordId": 570,
+      "english": "sleeping",
+      "wordAudio": "words/word_sleeping.mp3",
+      "sentenceAudio": "sentences/sent_0392acb6.mp3"
+    },
+    {
+      "wordId": 571,
+      "english": "each",
+      "wordAudio": "words/word_each.mp3",
+      "sentenceAudio": "sentences/sent_a4aa4499.mp3"
+    },
+    {
+      "wordId": 572,
+      "english": "other",
+      "wordAudio": "words/word_other.mp3",
+      "sentenceAudio": "sentences/sent_50fe3c60.mp3"
+    },
+    {
+      "wordId": 573,
+      "english": "each other",
+      "wordAudio": "words/word_each_other.mp3",
+      "sentenceAudio": "sentences/sent_8601d8f8.mp3"
+    },
+    {
+      "wordId": 574,
+      "english": "exciting",
+      "wordAudio": "words/word_exciting.mp3",
+      "sentenceAudio": "sentences/sent_bc7ebc84.mp3"
+    },
+    {
+      "wordId": 575,
+      "english": "like",
+      "wordAudio": "words/word_like.mp3",
+      "sentenceAudio": "sentences/sent_c1369371.mp3"
+    },
+    {
+      "wordId": 576,
+      "english": "walk",
+      "wordAudio": "words/word_walk.mp3",
+      "sentenceAudio": "sentences/sent_ed0d7d9f.mp3"
+    },
+    {
+      "wordId": 577,
+      "english": "doing morning exercises",
+      "wordAudio": "words/word_doing_morning_exercises.mp3",
+      "sentenceAudio": "sentences/sent_e811c081.mp3"
+    },
+    {
+      "wordId": 578,
+      "english": "having ... class",
+      "wordAudio": "words/word_having_..._class.mp3",
+      "sentenceAudio": "sentences/sent_424818d4.mp3"
+    },
+    {
+      "wordId": 579,
+      "english": "reading a book",
+      "wordAudio": "words/word_reading_a_book.mp3",
+      "sentenceAudio": "sentences/sent_bab05b3b.mp3"
+    },
+    {
+      "wordId": 580,
+      "english": "listening to music",
+      "wordAudio": "words/word_listening_to_music.mp3",
+      "sentenceAudio": "sentences/sent_ad35c1a9.mp3"
+    },
+    {
+      "wordId": 581,
+      "english": "keep",
+      "wordAudio": "words/word_keep.mp3",
+      "sentenceAudio": "sentences/sent_adc2fe36.mp3"
+    },
+    {
+      "wordId": 582,
+      "english": "keep to the right",
+      "wordAudio": "words/word_keep_to_the_right.mp3",
+      "sentenceAudio": "sentences/sent_96839257.mp3"
+    },
+    {
+      "wordId": 583,
+      "english": "talk quietly",
+      "wordAudio": "words/word_talk_quietly.mp3",
+      "sentenceAudio": "sentences/sent_8e074ba8.mp3"
+    },
+    {
+      "wordId": 584,
+      "english": "take turns",
+      "wordAudio": "words/word_take_turns.mp3",
+      "sentenceAudio": "sentences/sent_e85e2859.mp3"
+    },
+    {
+      "wordId": 585,
+      "english": "bamboo",
+      "wordAudio": "words/word_bamboo.mp3",
+      "sentenceAudio": "sentences/sent_8727050d.mp3"
+    },
+    {
+      "wordId": 586,
+      "english": "its",
+      "wordAudio": "words/word_its.mp3",
+      "sentenceAudio": "sentences/sent_ef601523.mp3"
+    },
+    {
+      "wordId": 587,
+      "english": "show",
+      "wordAudio": "words/word_show.mp3",
+      "sentenceAudio": "sentences/sent_fe43e2a8.mp3"
+    },
+    {
+      "wordId": 588,
+      "english": "anything",
+      "wordAudio": "words/word_anything.mp3",
+      "sentenceAudio": "sentences/sent_05a64e6f.mp3"
+    },
+    {
+      "wordId": 589,
+      "english": "else",
+      "wordAudio": "words/word_else.mp3",
+      "sentenceAudio": "sentences/sent_ecbbc219.mp3"
+    },
+    {
+      "wordId": 590,
+      "english": "practice",
+      "wordAudio": "words/word_practice.mp3",
+      "sentenceAudio": "sentences/sent_5ad523f1.mp3"
+    },
+    {
+      "wordId": 591,
+      "english": "science",
+      "wordAudio": "words/word_science.mp3",
+      "sentenceAudio": "sentences/sent_e52dee21.mp3"
+    },
+    {
+      "wordId": 592,
+      "english": "museum",
+      "wordAudio": "words/word_museum.mp3",
+      "sentenceAudio": "sentences/sent_335d3013.mp3"
+    },
+    {
+      "wordId": 593,
+      "english": "post office",
+      "wordAudio": "words/word_post_office.mp3",
+      "sentenceAudio": "sentences/sent_e7f1aa03.mp3"
+    },
+    {
+      "wordId": 594,
+      "english": "bookstore",
+      "wordAudio": "words/word_bookstore.mp3",
+      "sentenceAudio": "sentences/sent_d7e39158.mp3"
+    },
+    {
+      "wordId": 595,
+      "english": "cinema",
+      "wordAudio": "words/word_cinema.mp3",
+      "sentenceAudio": "sentences/sent_094ed289.mp3"
+    },
+    {
+      "wordId": 596,
+      "english": "hospital",
+      "wordAudio": "words/word_hospital.mp3",
+      "sentenceAudio": "sentences/sent_36f92cbe.mp3"
+    },
+    {
+      "wordId": 597,
+      "english": "crossing",
+      "wordAudio": "words/word_crossing.mp3",
+      "sentenceAudio": "sentences/sent_55f35424.mp3"
+    },
+    {
+      "wordId": 598,
+      "english": "turn",
+      "wordAudio": "words/word_turn.mp3",
+      "sentenceAudio": "sentences/sent_631d117b.mp3"
+    },
+    {
+      "wordId": 599,
+      "english": "left",
+      "wordAudio": "words/word_left.mp3",
+      "sentenceAudio": "sentences/sent_214975c9.mp3"
+    },
+    {
+      "wordId": 600,
+      "english": "right",
+      "wordAudio": "words/word_right.mp3",
+      "sentenceAudio": "sentences/sent_e881cc5b.mp3"
+    },
+    {
+      "wordId": 601,
+      "english": "straight",
+      "wordAudio": "words/word_straight.mp3",
+      "sentenceAudio": "sentences/sent_0a9993d6.mp3"
+    },
+    {
+      "wordId": 602,
+      "english": "get",
+      "wordAudio": "words/word_get.mp3",
+      "sentenceAudio": "sentences/sent_930cde9a.mp3"
+    },
+    {
+      "wordId": 603,
+      "english": "GPS",
+      "wordAudio": "words/word_gps.mp3",
+      "sentenceAudio": "sentences/sent_75846ad0.mp3"
+    },
+    {
+      "wordId": 604,
+      "english": "gave",
+      "wordAudio": "words/word_gave.mp3",
+      "sentenceAudio": "sentences/sent_799353b9.mp3"
+    },
+    {
+      "wordId": 605,
+      "english": "feature",
+      "wordAudio": "words/word_feature.mp3",
+      "sentenceAudio": "sentences/sent_dab48c74.mp3"
+    },
+    {
+      "wordId": 606,
+      "english": "follow",
+      "wordAudio": "words/word_follow.mp3",
+      "sentenceAudio": "sentences/sent_a23d2546.mp3"
+    },
+    {
+      "wordId": 607,
+      "english": "far",
+      "wordAudio": "words/word_far.mp3",
+      "sentenceAudio": "sentences/sent_fdba824d.mp3"
+    },
+    {
+      "wordId": 608,
+      "english": "tell",
+      "wordAudio": "words/word_tell.mp3",
+      "sentenceAudio": "sentences/sent_565252d9.mp3"
+    },
+    {
+      "wordId": 609,
+      "english": "by",
+      "wordAudio": "words/word_by.mp3",
+      "sentenceAudio": "sentences/sent_95f45bf1.mp3"
+    },
+    {
+      "wordId": 610,
+      "english": "bus",
+      "wordAudio": "words/word_bus.mp3",
+      "sentenceAudio": "sentences/sent_35f9d379.mp3"
+    },
+    {
+      "wordId": 611,
+      "english": "plane",
+      "wordAudio": "words/word_plane.mp3",
+      "sentenceAudio": "sentences/sent_0a38dfef.mp3"
+    },
+    {
+      "wordId": 612,
+      "english": "taxi",
+      "wordAudio": "words/word_taxi.mp3",
+      "sentenceAudio": "sentences/sent_31cfab56.mp3"
+    },
+    {
+      "wordId": 613,
+      "english": "ship",
+      "wordAudio": "words/word_ship.mp3",
+      "sentenceAudio": "sentences/sent_d5d9a7db.mp3"
+    },
+    {
+      "wordId": 614,
+      "english": "subway",
+      "wordAudio": "words/word_subway.mp3",
+      "sentenceAudio": "sentences/sent_def5db85.mp3"
+    },
+    {
+      "wordId": 615,
+      "english": "train",
+      "wordAudio": "words/word_train.mp3",
+      "sentenceAudio": "sentences/sent_58e0cade.mp3"
+    },
+    {
+      "wordId": 616,
+      "english": "slow",
+      "wordAudio": "words/word_slow.mp3",
+      "sentenceAudio": "sentences/sent_2ee31c5d.mp3"
+    },
+    {
+      "wordId": 617,
+      "english": "down",
+      "wordAudio": "words/word_down.mp3",
+      "sentenceAudio": "sentences/sent_50d48cbe.mp3"
+    },
+    {
+      "wordId": 618,
+      "english": "slow down",
+      "wordAudio": "words/word_slow_down.mp3",
+      "sentenceAudio": "sentences/sent_b18d3b0e.mp3"
+    },
+    {
+      "wordId": 619,
+      "english": "stop",
+      "wordAudio": "words/word_stop.mp3",
+      "sentenceAudio": "sentences/sent_94c63c17.mp3"
+    },
+    {
+      "wordId": 620,
+      "english": "fast",
+      "wordAudio": "words/word_fast.mp3",
+      "sentenceAudio": "sentences/sent_1fd55b7f.mp3"
+    },
+    {
+      "wordId": 621,
+      "english": "wait",
+      "wordAudio": "words/word_wait.mp3",
+      "sentenceAudio": "sentences/sent_09117d34.mp3"
+    },
+    {
+      "wordId": 622,
+      "english": "go",
+      "wordAudio": "words/word_go.mp3",
+      "sentenceAudio": "sentences/sent_634efc07.mp3"
+    },
+    {
+      "wordId": 623,
+      "english": "come",
+      "wordAudio": "words/word_come.mp3",
+      "sentenceAudio": "sentences/sent_c45e23cf.mp3"
+    },
+    {
+      "wordId": 624,
+      "english": "on foot",
+      "wordAudio": "words/word_on_foot.mp3",
+      "sentenceAudio": "sentences/sent_c5716b25.mp3"
+    },
+    {
+      "wordId": 625,
+      "english": "traffic",
+      "wordAudio": "words/word_traffic.mp3",
+      "sentenceAudio": "sentences/sent_64037036.mp3"
+    },
+    {
+      "wordId": 626,
+      "english": "light",
+      "wordAudio": "words/word_light.mp3",
+      "sentenceAudio": "sentences/sent_4f295070.mp3"
+    },
+    {
+      "wordId": 627,
+      "english": "helmet",
+      "wordAudio": "words/word_helmet.mp3",
+      "sentenceAudio": "sentences/sent_61fad318.mp3"
+    },
+    {
+      "wordId": 628,
+      "english": "must",
+      "wordAudio": "words/word_must.mp3",
+      "sentenceAudio": "sentences/sent_d3a23c1a.mp3"
+    },
+    {
+      "wordId": 629,
+      "english": "wear",
+      "wordAudio": "words/word_wear.mp3",
+      "sentenceAudio": "sentences/sent_fef5ca3c.mp3"
+    },
+    {
+      "wordId": 630,
+      "english": "attention",
+      "wordAudio": "words/word_attention.mp3",
+      "sentenceAudio": "sentences/sent_580a53af.mp3"
+    },
+    {
+      "wordId": 631,
+      "english": "went",
+      "wordAudio": "words/word_went.mp3",
+      "sentenceAudio": "sentences/sent_331f99af.mp3"
+    },
+    {
+      "wordId": 632,
+      "english": "camp",
+      "wordAudio": "words/word_camp.mp3",
+      "sentenceAudio": "sentences/sent_9ec22d16.mp3"
+    },
+    {
+      "wordId": 633,
+      "english": "went camping",
+      "wordAudio": "words/word_went_camping.mp3",
+      "sentenceAudio": "sentences/sent_e3ba8f77.mp3"
+    },
+    {
+      "wordId": 634,
+      "english": "fish",
+      "wordAudio": "words/word_fish.mp3",
+      "sentenceAudio": "sentences/sent_dbbab831.mp3"
+    },
+    {
+      "wordId": 635,
+      "english": "went fishing",
+      "wordAudio": "words/word_went_fishing.mp3",
+      "sentenceAudio": "sentences/sent_37f056c6.mp3"
+    },
+    {
+      "wordId": 636,
+      "english": "rode",
+      "wordAudio": "words/word_rode.mp3",
+      "sentenceAudio": "sentences/sent_e3f18e52.mp3"
+    },
+    {
+      "wordId": 637,
+      "english": "rode a horse",
+      "wordAudio": "words/word_rode_a_horse.mp3",
+      "sentenceAudio": "sentences/sent_d96ce3fa.mp3"
+    },
+    {
+      "wordId": 638,
+      "english": "hurt",
+      "wordAudio": "words/word_hurt.mp3",
+      "sentenceAudio": "sentences/sent_c4937f8c.mp3"
+    },
+    {
+      "wordId": 639,
+      "english": "hurt my foot",
+      "wordAudio": "words/word_hurt_my_foot.mp3",
+      "sentenceAudio": "sentences/sent_d6319b01.mp3"
+    },
+    {
+      "wordId": 640,
+      "english": "ate",
+      "wordAudio": "words/word_ate.mp3",
+      "sentenceAudio": "sentences/sent_5c34a63d.mp3"
+    },
+    {
+      "wordId": 641,
+      "english": "took",
+      "wordAudio": "words/word_took.mp3",
+      "sentenceAudio": "sentences/sent_248d81a7.mp3"
+    },
+    {
+      "wordId": 642,
+      "english": "took pictures",
+      "wordAudio": "words/word_took_pictures.mp3",
+      "sentenceAudio": "sentences/sent_16f51862.mp3"
+    },
+    {
+      "wordId": 643,
+      "english": "bought",
+      "wordAudio": "words/word_bought.mp3",
+      "sentenceAudio": "sentences/sent_3a690f86.mp3"
+    },
+    {
+      "wordId": 644,
+      "english": "bought gifts",
+      "wordAudio": "words/word_bought_gifts.mp3",
+      "sentenceAudio": "sentences/sent_bc6c4e68.mp3"
+    },
+    {
+      "wordId": 645,
+      "english": "last",
+      "wordAudio": "words/word_last.mp3",
+      "sentenceAudio": "sentences/sent_f854012f.mp3"
+    },
+    {
+      "wordId": 646,
+      "english": "weekend",
+      "wordAudio": "words/word_weekend.mp3",
+      "sentenceAudio": "sentences/sent_51aecaa2.mp3"
+    },
+    {
+      "wordId": 647,
+      "english": "ago",
+      "wordAudio": "words/word_ago.mp3",
+      "sentenceAudio": "sentences/sent_fed7773a.mp3"
+    },
+    {
+      "wordId": 648,
+      "english": "Xinjiang",
+      "wordAudio": "words/word_xinjiang.mp3",
+      "sentenceAudio": "sentences/sent_331f99af.mp3"
+    },
+    {
+      "wordId": 649,
+      "english": "fell",
+      "wordAudio": "words/word_fell.mp3",
+      "sentenceAudio": "sentences/sent_3b0c4b77.mp3"
+    },
+    {
+      "wordId": 650,
+      "english": "off",
+      "wordAudio": "words/word_off.mp3",
+      "sentenceAudio": "sentences/sent_ce55620c.mp3"
+    },
+    {
+      "wordId": 651,
+      "english": "Labour Day",
+      "wordAudio": "words/word_labour_day.mp3",
+      "sentenceAudio": "sentences/sent_ae6eeef2.mp3"
+    },
+    {
+      "wordId": 652,
+      "english": "mule",
+      "wordAudio": "words/word_mule.mp3",
+      "sentenceAudio": "sentences/sent_0bbb3b2b.mp3"
+    },
+    {
+      "wordId": 653,
+      "english": "Turpan",
+      "wordAudio": "words/word_turpan.mp3",
+      "sentenceAudio": "sentences/sent_7b6eb38b.mp3"
+    },
+    {
+      "wordId": 654,
+      "english": "could",
+      "wordAudio": "words/word_could.mp3",
+      "sentenceAudio": "sentences/sent_20f3c0c2.mp3"
+    },
+    {
+      "wordId": 655,
+      "english": "till",
+      "wordAudio": "words/word_till.mp3",
+      "sentenceAudio": "sentences/sent_3182cd82.mp3"
+    },
+    {
+      "wordId": 656,
+      "english": "beach",
+      "wordAudio": "words/word_beach.mp3",
+      "sentenceAudio": "sentences/sent_deee03f5.mp3"
+    },
+    {
+      "wordId": 657,
+      "english": "dining hall",
+      "wordAudio": "words/word_dining_hall.mp3",
+      "sentenceAudio": "sentences/sent_ddde64ec.mp3"
+    },
+    {
+      "wordId": 658,
+      "english": "grass",
+      "wordAudio": "words/word_grass.mp3",
+      "sentenceAudio": "sentences/sent_1c702f76.mp3"
+    },
+    {
+      "wordId": 659,
+      "english": "gym",
+      "wordAudio": "words/word_gym.mp3",
+      "sentenceAudio": "sentences/sent_4511c8d7.mp3"
+    },
+    {
+      "wordId": 660,
+      "english": "ago",
+      "wordAudio": "words/word_ago.mp3",
+      "sentenceAudio": "sentences/sent_4dfd8b20.mp3"
+    },
+    {
+      "wordId": 661,
+      "english": "cycling",
+      "wordAudio": "words/word_cycling.mp3",
+      "sentenceAudio": "sentences/sent_21831db6.mp3"
+    },
+    {
+      "wordId": 662,
+      "english": "go cycling",
+      "wordAudio": "words/word_go_cycling.mp3",
+      "sentenceAudio": "sentences/sent_2ef1c566.mp3"
+    },
+    {
+      "wordId": 663,
+      "english": "ice-skate",
+      "wordAudio": "words/word_ice-skate.mp3",
+      "sentenceAudio": "sentences/sent_af775996.mp3"
+    },
+    {
+      "wordId": 664,
+      "english": "badminton",
+      "wordAudio": "words/word_badminton.mp3",
+      "sentenceAudio": "sentences/sent_b5567540.mp3"
+    },
+    {
+      "wordId": 665,
+      "english": "different",
+      "wordAudio": "words/word_different.mp3",
+      "sentenceAudio": "sentences/sent_259258e2.mp3"
+    },
+    {
+      "wordId": 666,
+      "english": "was",
+      "wordAudio": "words/word_was.mp3",
+      "sentenceAudio": "sentences/sent_6b78412b.mp3"
+    },
+    {
+      "wordId": 667,
+      "english": "were",
+      "wordAudio": "words/word_were.mp3",
+      "sentenceAudio": "sentences/sent_ff7037ff.mp3"
+    },
+    {
+      "wordId": 668,
+      "english": "went",
+      "wordAudio": "words/word_went.mp3",
+      "sentenceAudio": "sentences/sent_205db82a.mp3"
+    },
+    {
+      "wordId": 669,
+      "english": "factory",
+      "wordAudio": "words/word_factory.mp3",
+      "sentenceAudio": "sentences/sent_b4d08d51.mp3"
+    },
+    {
+      "wordId": 670,
+      "english": "worker",
+      "wordAudio": "words/word_worker.mp3",
+      "sentenceAudio": "sentences/sent_adf9db1f.mp3"
+    },
+    {
+      "wordId": 671,
+      "english": "postman",
+      "wordAudio": "words/word_postman.mp3",
+      "sentenceAudio": "sentences/sent_d8a00334.mp3"
+    },
+    {
+      "wordId": 672,
+      "english": "businessman",
+      "wordAudio": "words/word_businessman.mp3",
+      "sentenceAudio": "sentences/sent_c7f3306d.mp3"
+    },
+    {
+      "wordId": 673,
+      "english": "police officer",
+      "wordAudio": "words/word_police_officer.mp3",
+      "sentenceAudio": "sentences/sent_9c8eadab.mp3"
+    },
+    {
+      "wordId": 674,
+      "english": "fisherman",
+      "wordAudio": "words/word_fisherman.mp3",
+      "sentenceAudio": "sentences/sent_70578904.mp3"
+    },
+    {
+      "wordId": 675,
+      "english": "scientist",
+      "wordAudio": "words/word_scientist.mp3",
+      "sentenceAudio": "sentences/sent_2ac1ca3b.mp3"
+    },
+    {
+      "wordId": 676,
+      "english": "pilot",
+      "wordAudio": "words/word_pilot.mp3",
+      "sentenceAudio": "sentences/sent_49d31072.mp3"
+    },
+    {
+      "wordId": 677,
+      "english": "coach",
+      "wordAudio": "words/word_coach.mp3",
+      "sentenceAudio": "sentences/sent_fd23a8c1.mp3"
+    },
+    {
+      "wordId": 678,
+      "english": "country",
+      "wordAudio": "words/word_country.mp3",
+      "sentenceAudio": "sentences/sent_c8120aee.mp3"
+    },
+    {
+      "wordId": 679,
+      "english": "head teacher",
+      "wordAudio": "words/word_head_teacher.mp3",
+      "sentenceAudio": "sentences/sent_367f234a.mp3"
+    },
+    {
+      "wordId": 680,
+      "english": "sea",
+      "wordAudio": "words/word_sea.mp3",
+      "sentenceAudio": "sentences/sent_70578904.mp3"
+    },
+    {
+      "wordId": 681,
+      "english": "stay",
+      "wordAudio": "words/word_stay.mp3",
+      "sentenceAudio": "sentences/sent_65dcad67.mp3"
+    },
+    {
+      "wordId": 682,
+      "english": "university",
+      "wordAudio": "words/word_university.mp3",
+      "sentenceAudio": "sentences/sent_3a6331c2.mp3"
+    },
+    {
+      "wordId": 683,
+      "english": "reporter",
+      "wordAudio": "words/word_reporter.mp3",
+      "sentenceAudio": "sentences/sent_3fdd8cbb.mp3"
+    },
+    {
+      "wordId": 684,
+      "english": "type",
+      "wordAudio": "words/word_type.mp3",
+      "sentenceAudio": "sentences/sent_1cf11668.mp3"
+    },
+    {
+      "wordId": 685,
+      "english": "quickly",
+      "wordAudio": "words/word_quickly.mp3",
+      "sentenceAudio": "sentences/sent_7a87d755.mp3"
+    },
+    {
+      "wordId": 686,
+      "english": "secretary",
+      "wordAudio": "words/word_secretary.mp3",
+      "sentenceAudio": "sentences/sent_da67cf8c.mp3"
+    },
+    {
+      "wordId": 687,
+      "english": "angry",
+      "wordAudio": "words/word_angry.mp3",
+      "sentenceAudio": "sentences/sent_1c5f8a3e.mp3"
+    },
+    {
+      "wordId": 688,
+      "english": "afraid",
+      "wordAudio": "words/word_afraid.mp3",
+      "sentenceAudio": "sentences/sent_b595e6e3.mp3"
+    },
+    {
+      "wordId": 689,
+      "english": "sad",
+      "wordAudio": "words/word_sad.mp3",
+      "sentenceAudio": "sentences/sent_606d350a.mp3"
+    },
+    {
+      "wordId": 690,
+      "english": "worried",
+      "wordAudio": "words/word_worried.mp3",
+      "sentenceAudio": "sentences/sent_498bed2f.mp3"
+    },
+    {
+      "wordId": 691,
+      "english": "worry",
+      "wordAudio": "words/word_worry.mp3",
+      "sentenceAudio": "sentences/sent_15bc53c2.mp3"
+    },
+    {
+      "wordId": 692,
+      "english": "happy",
+      "wordAudio": "words/word_happy.mp3",
+      "sentenceAudio": "sentences/sent_bf7f5b86.mp3"
+    },
+    {
+      "wordId": 693,
+      "english": "see a doctor",
+      "wordAudio": "words/word_see_a_doctor.mp3",
+      "sentenceAudio": "sentences/sent_095590f0.mp3"
+    },
+    {
+      "wordId": 694,
+      "english": "wear",
+      "wordAudio": "words/word_wear.mp3",
+      "sentenceAudio": "sentences/sent_a0a2eec8.mp3"
+    },
+    {
+      "wordId": 695,
+      "english": "more",
+      "wordAudio": "words/word_more.mp3",
+      "sentenceAudio": "sentences/sent_bd59fce5.mp3"
+    },
+    {
+      "wordId": 696,
+      "english": "deep",
+      "wordAudio": "words/word_deep.mp3",
+      "sentenceAudio": "sentences/sent_a7107521.mp3"
+    },
+    {
+      "wordId": 697,
+      "english": "breath",
+      "wordAudio": "words/word_breath.mp3",
+      "sentenceAudio": "sentences/sent_a7107521.mp3"
+    },
+    {
+      "wordId": 698,
+      "english": "count",
+      "wordAudio": "words/word_count.mp3",
+      "sentenceAudio": "sentences/sent_890ada5c.mp3"
+    },
+    {
+      "wordId": 699,
+      "english": "chase",
+      "wordAudio": "words/word_chase.mp3",
+      "sentenceAudio": "sentences/sent_fe284286.mp3"
+    },
+    {
+      "wordId": 700,
+      "english": "mice",
+      "wordAudio": "words/word_mice.mp3",
+      "sentenceAudio": "sentences/sent_7d624fa2.mp3"
+    },
+    {
+      "wordId": 701,
+      "english": "bad",
+      "wordAudio": "words/word_bad.mp3",
+      "sentenceAudio": "sentences/sent_28da5b84.mp3"
+    },
+    {
+      "wordId": 702,
+      "english": "hurt",
+      "wordAudio": "words/word_hurt.mp3",
+      "sentenceAudio": "sentences/sent_7110f805.mp3"
+    },
+    {
+      "wordId": 703,
+      "english": "ill",
+      "wordAudio": "words/word_ill.mp3",
+      "sentenceAudio": "sentences/sent_04a6b75d.mp3"
+    },
+    {
+      "wordId": 704,
+      "english": "wrong",
+      "wordAudio": "words/word_wrong.mp3",
+      "sentenceAudio": "sentences/sent_5e7e2961.mp3"
+    },
+    {
+      "wordId": 705,
+      "english": "should",
+      "wordAudio": "words/word_should.mp3",
+      "sentenceAudio": "sentences/sent_979c4132.mp3"
+    },
+    {
+      "wordId": 706,
+      "english": "feel",
+      "wordAudio": "words/word_feel.mp3",
+      "sentenceAudio": "sentences/sent_2675116c.mp3"
+    },
+    {
+      "wordId": 707,
+      "english": "well",
+      "wordAudio": "words/word_well.mp3",
+      "sentenceAudio": "sentences/sent_0d4e3f88.mp3"
+    },
+    {
+      "wordId": 708,
+      "english": "sit",
+      "wordAudio": "words/word_sit.mp3",
+      "sentenceAudio": "sentences/sent_73ff4f51.mp3"
+    },
+    {
+      "wordId": 709,
+      "english": "grass",
+      "wordAudio": "words/word_grass.mp3",
+      "sentenceAudio": "sentences/sent_ee6d777f.mp3"
+    },
+    {
+      "wordId": 710,
+      "english": "hear",
+      "wordAudio": "words/word_hear.mp3",
+      "sentenceAudio": "sentences/sent_bfa862df.mp3"
+    },
+    {
+      "wordId": 711,
+      "english": "ant",
+      "wordAudio": "words/word_ant.mp3",
+      "sentenceAudio": "sentences/sent_014d7082.mp3"
+    },
+    {
+      "wordId": 712,
+      "english": "stuck",
+      "wordAudio": "words/word_stuck.mp3",
+      "sentenceAudio": "sentences/sent_0a057e0b.mp3"
+    },
+    {
+      "wordId": 713,
+      "english": "pull",
+      "wordAudio": "words/word_pull.mp3",
+      "sentenceAudio": "sentences/sent_037245bc.mp3"
+    },
+    {
+      "wordId": 714,
+      "english": "everyone",
+      "wordAudio": "words/word_everyone.mp3",
+      "sentenceAudio": "sentences/sent_4f5a1307.mp3"
+    },
+    {
+      "wordId": 715,
+      "english": "younger",
+      "wordAudio": "words/word_younger.mp3",
+      "sentenceAudio": "sentences/sent_49de93c6.mp3"
+    },
+    {
+      "wordId": 716,
+      "english": "older",
+      "wordAudio": "words/word_older.mp3",
+      "sentenceAudio": "sentences/sent_13f86331.mp3"
+    },
+    {
+      "wordId": 717,
+      "english": "taller",
+      "wordAudio": "words/word_taller.mp3",
+      "sentenceAudio": "sentences/sent_5f002072.mp3"
+    },
+    {
+      "wordId": 718,
+      "english": "shorter",
+      "wordAudio": "words/word_shorter.mp3",
+      "sentenceAudio": "sentences/sent_eba9b83b.mp3"
+    },
+    {
+      "wordId": 719,
+      "english": "longer",
+      "wordAudio": "words/word_longer.mp3",
+      "sentenceAudio": "sentences/sent_0b4f4331.mp3"
+    },
+    {
+      "wordId": 720,
+      "english": "thinner",
+      "wordAudio": "words/word_thinner.mp3",
+      "sentenceAudio": "sentences/sent_27427a90.mp3"
+    },
+    {
+      "wordId": 721,
+      "english": "heavier",
+      "wordAudio": "words/word_heavier.mp3",
+      "sentenceAudio": "sentences/sent_ba86e144.mp3"
+    },
+    {
+      "wordId": 722,
+      "english": "bigger",
+      "wordAudio": "words/word_bigger.mp3",
+      "sentenceAudio": "sentences/sent_f08204fb.mp3"
+    },
+    {
+      "wordId": 723,
+      "english": "smaller",
+      "wordAudio": "words/word_smaller.mp3",
+      "sentenceAudio": "sentences/sent_0c13e0c5.mp3"
+    },
+    {
+      "wordId": 724,
+      "english": "stronger",
+      "wordAudio": "words/word_stronger.mp3",
+      "sentenceAudio": "sentences/sent_51514e0e.mp3"
+    },
+    {
+      "wordId": 725,
+      "english": "dinosaur",
+      "wordAudio": "words/word_dinosaur.mp3",
+      "sentenceAudio": "sentences/sent_e7e77ffe.mp3"
+    },
+    {
+      "wordId": 726,
+      "english": "hall",
+      "wordAudio": "words/word_hall.mp3",
+      "sentenceAudio": "sentences/sent_2d66bc80.mp3"
+    },
+    {
+      "wordId": 727,
+      "english": "metre",
+      "wordAudio": "words/word_metre.mp3",
+      "sentenceAudio": "sentences/sent_f01d0327.mp3"
+    },
+    {
+      "wordId": 728,
+      "english": "than",
+      "wordAudio": "words/word_than.mp3",
+      "sentenceAudio": "sentences/sent_e129c330.mp3"
+    },
+    {
+      "wordId": 729,
+      "english": "both",
+      "wordAudio": "words/word_both.mp3",
+      "sentenceAudio": "sentences/sent_055039e4.mp3"
+    },
+    {
+      "wordId": 730,
+      "english": "kilogram",
+      "wordAudio": "words/word_kilogram.mp3",
+      "sentenceAudio": "sentences/sent_c9d98584.mp3"
+    },
+    {
+      "wordId": 731,
+      "english": "size",
+      "wordAudio": "words/word_size.mp3",
+      "sentenceAudio": "sentences/sent_96530ac3.mp3"
+    },
+    {
+      "wordId": 732,
+      "english": "your",
+      "wordAudio": "words/word_your.mp3",
+      "sentenceAudio": "sentences/sent_26ee39e8.mp3"
+    },
+    {
+      "wordId": 733,
+      "english": "countryside",
+      "wordAudio": "words/word_countryside.mp3",
+      "sentenceAudio": "sentences/sent_64b34d87.mp3"
+    },
+    {
+      "wordId": 734,
+      "english": "lower",
+      "wordAudio": "words/word_lower.mp3",
+      "sentenceAudio": "sentences/sent_6954d779.mp3"
+    },
+    {
+      "wordId": 735,
+      "english": "shadow",
+      "wordAudio": "words/word_shadow.mp3",
+      "sentenceAudio": "sentences/sent_17c42ec0.mp3"
+    },
+    {
+      "wordId": 736,
+      "english": "smarter",
+      "wordAudio": "words/word_smarter.mp3",
+      "sentenceAudio": "sentences/sent_402911f9.mp3"
+    },
+    {
+      "wordId": 737,
+      "english": "become",
+      "wordAudio": "words/word_become.mp3",
+      "sentenceAudio": "sentences/sent_c1b3a886.mp3"
+    },
+    {
+      "wordId": 738,
+      "english": "cleaned",
+      "wordAudio": "words/word_cleaned.mp3",
+      "sentenceAudio": "sentences/sent_3977852e.mp3"
+    },
+    {
+      "wordId": 739,
+      "english": "stayed",
+      "wordAudio": "words/word_stayed.mp3",
+      "sentenceAudio": "sentences/sent_f4e7501d.mp3"
+    },
+    {
+      "wordId": 740,
+      "english": "watched",
+      "wordAudio": "words/word_watched.mp3",
+      "sentenceAudio": "sentences/sent_f1411efa.mp3"
+    },
+    {
+      "wordId": 741,
+      "english": "read",
+      "wordAudio": "words/word_read.mp3",
+      "sentenceAudio": "sentences/sent_d99c51b4.mp3"
+    },
+    {
+      "wordId": 742,
+      "english": "saw",
+      "wordAudio": "words/word_saw.mp3",
+      "sentenceAudio": "sentences/sent_ebde36ab.mp3"
+    },
+    {
+      "wordId": 743,
+      "english": "slept",
+      "wordAudio": "words/word_slept.mp3",
+      "sentenceAudio": "sentences/sent_0861eb9a.mp3"
+    },
+    {
+      "wordId": 744,
+      "english": "washed",
+      "wordAudio": "words/word_washed.mp3",
+      "sentenceAudio": "sentences/sent_7c847a58.mp3"
+    },
+    {
+      "wordId": 745,
+      "english": "had",
+      "wordAudio": "words/word_had.mp3",
+      "sentenceAudio": "sentences/sent_283e8b5c.mp3"
+    },
+    {
+      "wordId": 746,
+      "english": "had a cold",
+      "wordAudio": "words/word_had_a_cold.mp3",
+      "sentenceAudio": "sentences/sent_a3ebea7c.mp3"
+    },
+    {
+      "wordId": 747,
+      "english": "slept",
+      "wordAudio": "words/word_slept.mp3",
+      "sentenceAudio": "sentences/sent_bfc10b46.mp3"
+    },
+    {
+      "wordId": 748,
+      "english": "last",
+      "wordAudio": "words/word_last.mp3",
+      "sentenceAudio": "sentences/sent_5139750e.mp3"
+    },
+    {
+      "wordId": 749,
+      "english": "yesterday",
+      "wordAudio": "words/word_yesterday.mp3",
+      "sentenceAudio": "sentences/sent_a2466344.mp3"
+    },
+    {
+      "wordId": 750,
+      "english": "before",
+      "wordAudio": "words/word_before.mp3",
+      "sentenceAudio": "sentences/sent_d96273af.mp3"
+    },
+    {
+      "wordId": 751,
+      "english": "drank",
+      "wordAudio": "words/word_drank.mp3",
+      "sentenceAudio": "sentences/sent_4ea30f64.mp3"
+    },
+    {
+      "wordId": 752,
+      "english": "show",
+      "wordAudio": "words/word_show.mp3",
+      "sentenceAudio": "sentences/sent_e709ad6c.mp3"
+    },
+    {
+      "wordId": 753,
+      "english": "magazine",
+      "wordAudio": "words/word_magazine.mp3",
+      "sentenceAudio": "sentences/sent_c0a8b4d1.mp3"
+    },
+    {
+      "wordId": 754,
+      "english": "better",
+      "wordAudio": "words/word_better.mp3",
+      "sentenceAudio": "sentences/sent_850066bb.mp3"
+    },
+    {
+      "wordId": 755,
+      "english": "faster",
+      "wordAudio": "words/word_faster.mp3",
+      "sentenceAudio": "sentences/sent_53a4ee58.mp3"
+    },
+    {
+      "wordId": 756,
+      "english": "hotel",
+      "wordAudio": "words/word_hotel.mp3",
+      "sentenceAudio": "sentences/sent_7474431b.mp3"
+    },
+    {
+      "wordId": 757,
+      "english": "fixed",
+      "wordAudio": "words/word_fixed.mp3",
+      "sentenceAudio": "sentences/sent_583f8130.mp3"
+    },
+    {
+      "wordId": 758,
+      "english": "broken",
+      "wordAudio": "words/word_broken.mp3",
+      "sentenceAudio": "sentences/sent_dfc3cf4c.mp3"
+    },
+    {
+      "wordId": 759,
+      "english": "everything",
+      "wordAudio": "words/word_everything.mp3",
+      "sentenceAudio": "sentences/sent_7e9bb5d8.mp3"
+    },
+    {
+      "wordId": 760,
+      "english": "went swimming",
+      "wordAudio": "words/word_went_swimming.mp3",
+      "sentenceAudio": "sentences/sent_79fa0f7a.mp3"
+    },
+    {
+      "wordId": 761,
+      "english": "took pictures",
+      "wordAudio": "words/word_took_pictures.mp3",
+      "sentenceAudio": "sentences/sent_248d81a7.mp3"
+    },
+    {
+      "wordId": 762,
+      "english": "bought gifts",
+      "wordAudio": "words/word_bought_gifts.mp3",
+      "sentenceAudio": "sentences/sent_7d2fdcd7.mp3"
+    },
+    {
+      "wordId": 763,
+      "english": "Sanya",
+      "wordAudio": "words/word_sanya.mp3",
+      "sentenceAudio": "sentences/sent_7c0f1d1f.mp3"
+    },
+    {
+      "wordId": 764,
+      "english": "beautiful",
+      "wordAudio": "words/word_beautiful.mp3",
+      "sentenceAudio": "sentences/sent_cf30d9f6.mp3"
+    },
+    {
+      "wordId": 765,
+      "english": "Hainan",
+      "wordAudio": "words/word_hainan.mp3",
+      "sentenceAudio": "sentences/sent_f1a5674e.mp3"
+    },
+    {
+      "wordId": 766,
+      "english": "far",
+      "wordAudio": "words/word_far.mp3",
+      "sentenceAudio": "sentences/sent_ecfcaeec.mp3"
+    },
+    {
+      "wordId": 767,
+      "english": "sometime",
+      "wordAudio": "words/word_sometime.mp3",
+      "sentenceAudio": "sentences/sent_96af9fd7.mp3"
+    },
+    {
+      "wordId": 768,
+      "english": "sat",
+      "wordAudio": "words/word_sat.mp3",
+      "sentenceAudio": "sentences/sent_a9070465.mp3"
+    },
+    {
+      "wordId": 769,
+      "english": "picture",
+      "wordAudio": "words/word_picture.mp3",
+      "sentenceAudio": "sentences/sent_13d52bd0.mp3"
+    },
+    {
+      "wordId": 770,
+      "english": "ago",
+      "wordAudio": "words/word_ago.mp3",
+      "sentenceAudio": "sentences/sent_9c8def59.mp3"
+    },
+    {
+      "wordId": 771,
+      "english": "different",
+      "wordAudio": "words/word_different.mp3",
+      "sentenceAudio": "sentences/sent_32d4bfa0.mp3"
+    },
+    {
+      "wordId": 772,
+      "english": "active",
+      "wordAudio": "words/word_active.mp3",
+      "sentenceAudio": "sentences/sent_db4011e1.mp3"
+    },
+    {
+      "wordId": 773,
+      "english": "cycling",
+      "wordAudio": "words/word_cycling.mp3",
+      "sentenceAudio": "sentences/sent_5e9fbea9.mp3"
+    },
+    {
+      "wordId": 774,
+      "english": "before",
+      "wordAudio": "words/word_before.mp3",
+      "sentenceAudio": "sentences/sent_0d6ae8e9.mp3"
+    },
+    {
+      "wordId": 775,
+      "english": "nothing",
+      "wordAudio": "words/word_nothing.mp3",
+      "sentenceAudio": "sentences/sent_eb3f3d97.mp3"
+    },
+    {
+      "wordId": 776,
+      "english": "thought",
+      "wordAudio": "words/word_thought.mp3",
+      "sentenceAudio": "sentences/sent_54a63478.mp3"
+    },
+    {
+      "wordId": 777,
+      "english": "star",
+      "wordAudio": "words/word_star.mp3",
+      "sentenceAudio": "sentences/sent_73b92d1f.mp3"
+    },
+    {
+      "wordId": 778,
+      "english": "easy",
+      "wordAudio": "words/word_easy.mp3",
+      "sentenceAudio": "sentences/sent_0c03c9f9.mp3"
+    },
+    {
+      "wordId": 779,
+      "english": "look up",
+      "wordAudio": "words/word_look_up.mp3",
+      "sentenceAudio": "sentences/sent_68b5bb3f.mp3"
+    },
+    {
+      "wordId": 780,
+      "english": "internet",
+      "wordAudio": "words/word_internet.mp3",
+      "sentenceAudio": "sentences/sent_04e1e085.mp3"
+    }
+  ]
+}
