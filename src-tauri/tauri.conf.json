@@ -41,7 +41,7 @@
     },
     "windows": {
       "nsis": {
-        "languages": ["SimplifiedChinese", "English"]
+        "languages": ["SimpChinese", "English"]
       }
     }
   }
